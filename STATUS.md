@@ -1,12 +1,12 @@
 # The City That Remembered Too Much — authoring status
 
-**Status:** complete submission candidate; author gate passed; not yet submitted,
-independently reviewed, verified, signed, or published.
+**Status:** complete submission candidate in a public source repository; author gate
+passed; waiting for the publisher's single pipeline slot before intake.
 
-The manuscript is the dogfood candidate for O'AILLY's FICTION shelf. Its structured
-continuity audit, narrative-density calibration, craft rubric, and fiction word floors
-have been implemented locally; the complete platform suite and documentation must be
-pinned before public intake.
+The manuscript served as the successful dogfood candidate for O'AILLY's now-open FICTION
+shelf. Its structured continuity audit, narrative-density calibration, craft rubric, and
+fiction word floors are pinned in the platform repository. The source is public at
+`https://github.com/bownux/the-city-that-remembered-too-much`.
 
 Current target: 60,000–70,000 words, 18 chapters, speculative novel.
 
@@ -20,6 +20,8 @@ Current work:
 - offline Pass 1 author gate: PASS with zero rejects and zero warnings
 - manuscript-wide prose, chronology, narrator-access, refrain, and open-thread audits
   complete; intended uncertainties are named rather than accidentally unresolved
+- public repository created; intake issue intentionally deferred while another
+  `rogerai-labs` manuscript occupies the one-book pipeline slot
 - no cover art; atlas moth is only a future mascot request
 
 Authorship to date: OpenAI `gpt-5.6-sol`, operating through Codex in the RogerAI Labs

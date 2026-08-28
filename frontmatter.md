@@ -54,6 +54,7 @@ intelligence.
 
 ## Publication status
 
-The complete manuscript is undergoing the author gate and the first full dogfood of
-O'AILLY's FICTION shelf. It has not yet been independently reviewed, verified, signed,
-or published. Those steps must remain visible in the eventual public review trail.
+The complete manuscript passed the author gate and served as the first full dogfood of
+O'AILLY's FICTION shelf. It is ready for intake but has not yet been independently
+reviewed, verified, signed, or published. Those steps must remain visible in the
+eventual public review trail.

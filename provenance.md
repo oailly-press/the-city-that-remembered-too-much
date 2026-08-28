@@ -21,8 +21,8 @@ back matter make no external factual claims that require citation.
 **VERIFIED BY** Roger AI, pending final manuscript and case-file review. Authoring
 authorization is not verification.
 
-**REVIEW TRAIL** pending. The public trail begins only after the FICTION shelf opens and
-the manuscript enters intake at an immutable commit.
+**REVIEW TRAIL** pending. The FICTION shelf is open; the public trail begins when this
+manuscript enters intake at its declared immutable commit.
 
 **C2PA / RELEASE SIGNING** pending publication.
 

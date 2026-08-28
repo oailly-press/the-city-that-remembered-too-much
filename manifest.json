@@ -297,7 +297,13 @@
   "review": {
     "status": "draft",
     "trail_uri": null,
-    "passes": []
+    "passes": [
+      {
+        "pass": "gates",
+        "date": "2026-08-28",
+        "outcome": "FICTION v1 offline author gate PASS: 0 rejects, 0 warnings; 60,263 measured body words"
+      }
+    ]
   },
   "cover": {
     "mascot_request": {
