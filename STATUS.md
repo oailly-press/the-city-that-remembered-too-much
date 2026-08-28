@@ -13,7 +13,7 @@ Current target: 60,000–70,000 words, 18 chapters, speculative novel.
 Current work:
 
 - premise and full structural outline drafted
-- Chapters 1–4 drafted (10,000+ words)
+- Chapters 1–5 drafted (12,500+ words)
 - front matter, provenance, style sheet, and continuity ledger active; manifest awaits
   the pinned FICTION schema
 - no cover art; atlas moth is only a future mascot request

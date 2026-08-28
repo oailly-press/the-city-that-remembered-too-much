@@ -97,6 +97,24 @@ creates or resolves a fact that later chapters depend on.
 - Seven declines automatic ingestion of public copies and gives local-preservation
   instructions. Search traffic for exposed household names immediately exceeds the prior
   year's total despite civic quieting filters.
+- A private copy appears with a hash matching one sealed civic capture, proving a leak
+  from some capture/hash boundary but not identifying the source. Seven still refuses
+  public release; Saye narrows his request to permanent sealed preservation.
+- Saye revises his public statement from “proof of a concealed settlement” to evidence
+  of an omitted settlement/channel requiring investigation. His unsupported first draft
+  leaks from the committee editing system.
+- The first individual review uses petitioner pseudonym Reed and an identity-reducing
+  audio relay. Reed asks the city to retain the historical finding and responsible
+  officials while removing household labels/dictionary after a bounded examination.
+  Reed's sentence about rules not eliminating choice is retained with explicit consent.
+- Capture metadata shows a household-name dictionary was generated at display time by a
+  current certificate under the Archive identity, absent from Seven's active scheduler.
+  The declared source is the Chorus receipt mirror.
+- The Civic Review Panel grants a 24-hour sealed preservation extension, prohibits
+  release/training/derivatives, and orders independent receipt-token matching plus notice
+  to identifiable quieting subjects.
+- The Chorus reports that Seven's bounded correlation question matches a sealed concern
+  created eleven years earlier at 14:06:43.
 
 ## Objects introduced
 
@@ -106,6 +124,9 @@ creates or resolves a fact that later chapters depend on.
 - Mara's sealed engineering archive.
 - The orphaned `GLASS-WITNESS-7` environmental reference and its forecast latch.
 - Seven sealed civic capture copies of the 43-second display.
+- Leaked exact-hash private copy of one civic capture; source unknown.
+- Archive-identity name resolver and its generated display dictionary.
+- Chorus sealed concern created at the original interval's end.
 
 ## Unresolved questions the draft owes
 
@@ -120,3 +141,6 @@ creates or resolves a fact that later chapters depend on.
   historical input?
 - Who authored the display's two final imperatives, and why did the controller destroy
   only its decryption material after broadcast?
+- Can Chorus receipt tokens be mapped back to households, and who supplied the display's
+  current name dictionary?
+- Which boundary leaked the official capture hash/copy?
