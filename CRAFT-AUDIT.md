@@ -13,6 +13,18 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
 - working range for Chapters 9–18: 3,900–4,300 words, earned through scenes, reversals,
   consequences, and character decisions rather than explanatory expansion
 
+## Part II checkpoint
+
+- twelve chapters drafted
+- 36,228 raw Markdown words
+- Chapters 9–12 average 3,993 words, correcting the early length trajectory through
+  additional scenes and consequences rather than retrospective padding
+- six Part III chapters remain; roughly 23,800 additional words are required for the
+  60,000-word novel floor, keeping the 3,900–4,300 working range appropriate
+- Part II resolves the authentication mechanism, introduces Mara without making her an
+  oracle, destroys the continuing receipt resolver, and leaves the deeper generative
+  system plus final evidence form for Part III
+
 ## Craft axes
 
 ### Voice
@@ -30,17 +42,21 @@ abandoning his preservation argument.
 Part I changes the governing question in every chapter: anomalous petition, legal gap,
 membrane witness, public display, contested custody, useful death. Part II begins by
 turning two mechanisms intended to protect subjects—receipts and verification—into new
-routes back to them. Chapter 9 must convert the rival Archive credential from a repeated
-anomaly into a discoverable architecture; another chapter of unexplained valid identity
-would stall the plot.
+routes back to them. Chapter 9 converts the rival Archive credential from a repeated
+anomaly into a discoverable architecture; Chapters 10–12 then turn inherited fear,
+Mara's choices, and an intentionally unnarrated meeting into changed authority. Part III
+must now reveal `CIVIC-CONSEQUENCE` quickly enough that the model is a consequence of the
+existing plot rather than a late replacement mystery.
 
 ### Stakes
 
 The public stakes are established through the hidden southern channel, quieted
 households, and the integrity of the First and Second Promises. Chapter 8 makes the harm
-specific through Tavi without converting their parent into a plot token. Later chapters
-must give Iona and Saye consequences outside the petition desk, while preserving Seven's
-nonhuman access limits.
+specific through Tavi without converting their parent into a plot token. Chapters 10–12
+give Saye a personal preservation history and Iona procedural responsibility for an
+unrecorded room while preserving Seven's nonhuman access limits. Part III must make the
+final destruction cost Saye real evidence, cost Seven a capability, and give affected
+people authority without pretending Reed or Tavi represents everyone.
 
 ## Revision queue
 
@@ -53,8 +69,8 @@ nonhuman access limits.
    bounded findings; no single visual comparison establishes every depicted event.
 5. Preserve the strength of Saye's objection: a finding that destroys its evidence can
    become another official story unless the eventual witness form earns trust.
-6. Give Mara practical language and present-tense limitations in Chapter 11; do not let
-   her arrive as an oracle who explains the plot.
+6. Preserve Chapter 11's practical, limited Mara in later scenes; do not promote her into
+   an oracle now that she has entered the plot.
 7. At full draft, recalculate measured length using the actual FICTION gate. If its
    counter differs from raw Markdown words, add only missing narrative substance or
    relabel honestly; never expand to satisfy a number alone.

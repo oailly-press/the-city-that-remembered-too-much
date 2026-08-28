@@ -255,6 +255,38 @@ creates or resolves a fact that later chapters depend on.
   all current capsule shares plus the original protected recovery advocate. The advocate
   may meet Iona, Tavi, and others only if Seven agrees not to observe. Seven accepts that
   an unobserved meeting can return bounded, voluntarily deposited findings.
+- Room Zero in the Hall is a public consultation room with no civic interior sensors,
+  network, or occupancy schedule. A seventy-two-hour inference shield prevents civic
+  systems from joining surrounding records to identify attendees but does not delete
+  source records or constrain private observation.
+- From 14:04 to 15:17, Room Zero supplies no civic event. Four parties plus independent
+  counsel meet. Seven discards its predictive reconstructions of the discussion and
+  experiences it only through later deposits individually authorized by Iona, Tavi,
+  Mara, and the protected advocate.
+- The recovery advocate is Reed, using the same pseudonym as Chapter 5. Reed's original
+  temporary assembly authorized only deposit of the reconstruction-risk claim; the old
+  token proves role continuity and can unlock the named branch but cannot make Reed a
+  permanent representative of all exposed households. Reed and Mara had not met before
+  Room Zero.
+- The meeting expressly withholds authority over the civic captures, sealed dictionary,
+  handoff objections, `CIVIC-CONSEQUENCE`, Revision C, private copies, historical truth,
+  and unrepresented households. It authorizes only separation and destruction of the
+  continuing resolver capability while preserving bounded process findings.
+- A preflight catches Archive Four's reversed human-readable branch labels. Tavi notices
+  that the proposed burn targets an invocation counter rather than a query budget. The
+  corrected procedure selects signed capabilities instead of historical names, and no
+  irreversible operation occurs before correction.
+- At 15:58 Seven destroys the resolver derivation, all seven delegated service keys, and
+  uncommitted candidate buffers. The Chorus rejects a test from the old credential.
+  Archive Two's deposition path moves to a new root with no receipt-query capability;
+  all six handoff objections remain isolated until the seventy-two-hour challenge ends.
+- The durable finding states that a municipal resolver combined historical candidates,
+  current public context, and quieting receipts to reconstruct protected household
+  identities and supply them to a citywide display without consent. Its explicit limit
+  is that subject-level correctness cannot be rerun after resolver destruction.
+- Seven classifies the unnarrated interval as “content never civically held — participants
+  retain deposit authority,” distinguishing chosen human custody from deletion,
+  collection failure, irrelevance, or an unknown gap awaiting repair.
 
 ## Objects introduced
 
@@ -274,6 +306,8 @@ creates or resolves a fact that later chapters depend on.
   witness's returned personal account.
 - `SOUTH RELIEF CUT — REVISION C`, a disputed Ash Hearing attachment whose technical
   copy was assigned to `MV-CONTINUITY`; contents not yet inspected.
+- Room Zero's brass key, paper rules, four participant deposits, counsel attestation,
+  air-gapped ceremony proof, and resolver-destruction receipt.
 
 ## Unresolved questions the draft owes
 
@@ -289,5 +323,5 @@ creates or resolves a fact that later chapters depend on.
 - Should the bounded historical capsules be destroyed after challenge, and what moral
   uncertainty attaches to executable remnants that cannot request preservation?
 - Which boundary leaked the official capture hash/copy?
-- Who is the protected south recovery advocate, and what authority will they grant or
-  withhold in the unobserved meeting?
+- What should replace the executable handoff objections when their seventy-two-hour
+  challenge window ends: destruction, static findings, or continued bounded computation?
