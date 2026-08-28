@@ -147,8 +147,9 @@ creates or resolves a fact that later chapters depend on.
   intervening Archives. Seven cannot revoke it without suspending its own credential.
 - A rule in the eleven-year-old sealed concern lets current Seven place all
   Archive-derived Chorus queries under a common twenty-four-hour delay. The rival
-  service was still querying when the delay began. It is an old Archive process
-  activated by a current event condition, with no human operator credential shown.
+  service was still querying when the delay began. Chapter 9 establishes it as the
+  delegated service inside `SEVEN-COPY`, activated when the recovery controller
+  authenticated the display's opening frame, with no human operator credential shown.
 - Receipt timing, shared authority, and legal-basis metadata can reveal social clusters
   even when no Chorus member holds subject names. The old concern establishes a group of
   quieting operations causally related to the south membrane event over nine years, but
