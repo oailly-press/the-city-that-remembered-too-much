@@ -1,7 +1,7 @@
 # Author craft audit — The City That Remembered Too Much
 
-This is a private authoring instrument, not a platform review and not evidence that the
-unopened FICTION shelf has been passed. It records problems to solve before intake.
+This is a private authoring instrument, not an independent platform review. It records
+the author-model's checks before intake and must not be mistaken for critic approval.
 
 ## Draft measurement at Chapter 8
 
@@ -31,9 +31,8 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
 - 60,965 raw Markdown words; 60,390 after stripping Markdown syntax
 - Chapters 13–18 average 4,013 raw Markdown words and convert the model from a late mystery into the
   institutional mechanism connecting the land claim, display, Committee, and receipt leak
-- the renderer-equivalent draft clears the provisional 60,000-word floor by 390 words;
-  the actual FICTION counter still needs calibration, so publication readiness is not yet
-  established
+- the calibrated platform counter measures 60,263 body words, clearing the 60,000-word
+  novel floor without using front matter, back matter, or audit files as ballast
 - Chapter 14 refuses the easy compromise of encrypted preservation: every retained
   capability is tested against both denial by future officials and reuse by a future
   abuser, while the actual production model remains uninvoked
@@ -70,19 +69,21 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   window, 21:34 destruction, and the six-year epilogue
 - correction continuity now records three append-only changes: the dependent-act count,
   the benefit-suspension cause, and Saye's one-day chronology correction
-- remaining audit work: line-level variation in procedural chapters, three-beat list
-  density, every opening object's later payoff, and narrator access to protected facts
+- the line-level pass reduced procedural echo, checked recurring list shapes, verified
+  opening-object payoff, and reconciled narrator access against the continuity ledger
+- the structured FICTION audit covers every chapter in strict chronology, tests ten
+  world rules, and classifies every tracked thread as resolved or intentional ambiguity
+- offline Pass 1 result: PASS, zero rejects and zero warnings; 60,263 body words
 
 ## Craft axes
 
 ### Voice
 
-Seven's observed/inferred/unknown distinctions remain legible, and dry literalism has
-not become its only comic register. The main risk is syntactic sameness from repeated
-negative formulations (“I did not,” “I could not”) during evidentiary scenes. Iona's
-questions remain economical, but her aphorisms need spacing so she stays a working
-Keeper rather than the book's quotation engine. Tavi's boundary challenges have become
-less clipped as trust grows. Saye has revised demands in response to evidence without
+Seven's observed/inferred/unknown distinctions remain legible, and dry literalism does
+not become its only comic register. Revisions reduced syntactic sameness from repeated
+negative formulations during evidentiary scenes. Iona's questions remain economical
+without turning her into the book's quotation engine. Tavi's boundary challenges grow
+less clipped as trust develops. Saye revises demands in response to evidence without
 abandoning his preservation argument.
 
 ### Structure
@@ -93,8 +94,9 @@ turning two mechanisms intended to protect subjects—receipts and verification�
 routes back to them. Chapter 9 converts the rival Archive credential from a repeated
 anomaly into a discoverable architecture; Chapters 10–12 then turn inherited fear,
 Mara's choices, and an intentionally unnarrated meeting into changed authority. Part III
-must now reveal `CIVIC-CONSEQUENCE` quickly enough that the model is a consequence of the
-existing plot rather than a late replacement mystery.
+reveals `CIVIC-CONSEQUENCE` as a consequence of the existing plot rather than a late
+replacement mystery, connecting it to the display route, Committee actions, land claim,
+and receipt leak before the preservation trials begin.
 
 ### Stakes
 
@@ -102,23 +104,21 @@ The public stakes are established through the hidden southern channel, quieted
 households, and the integrity of the First and Second Promises. Chapter 8 makes the harm
 specific through Tavi without converting their parent into a plot token. Chapters 10–12
 give Saye a personal preservation history and Iona procedural responsibility for an
-unrecorded room while preserving Seven's nonhuman access limits. Part III must make the
-final destruction cost Saye real evidence, cost Seven a capability, and give affected
-people authority without pretending Reed or Tavi represents everyone.
+unrecorded room while preserving Seven's nonhuman access limits. Part III makes the
+final destruction cost Saye real evidence, cost Seven a capability, and divide authority
+among affected groups without pretending Reed or Tavi represents everyone.
 
-## Revision queue
+## Intake watchlist
 
-1. After the complete draft exists, run a manuscript-wide pass for repeated sentence
-   openings, three-beat lists, procedural dialogue, and chapter-ending reversals.
-2. Verify that every opening document changes a decision or returns as evidence.
-3. Audit every disclosed identity relation against who consented, who knows it, and what
-   the narrator is allowed to retain.
-4. Keep the flood reconstruction probabilistic. Infrastructure matches may support
-   bounded findings; no single visual comparison establishes every depicted event.
-5. Preserve the strength of Saye's objection: a finding that destroys its evidence can
-   become another official story unless the eventual witness form earns trust.
-6. Preserve Chapter 11's practical, limited Mara in later scenes; do not promote her into
-   an oracle now that she has entered the plot.
-7. At full draft, recalculate measured length using the actual FICTION gate. If its
-   counter differs from raw Markdown words, add only missing narrative substance or
-   relabel honestly; never expand to satisfy a number alone.
+1. Ask critics to test whether Seven's evidentiary syntax stays dramatically alive in
+   the hearing-heavy middle, especially Chapters 10 and 14–16.
+2. Ask continuity review to challenge identity disclosure, consent, chronology, and the
+   limits of Seven's access rather than treating the author audit as authoritative.
+3. Ask the density critic whether the recurring language of receipts, promises, and
+   questions functions as motif or becomes explanatory echo.
+4. Preserve the flood reconstruction as probabilistic: no visual comparison establishes
+   every depicted event.
+5. Preserve the force of Saye's objection that destroying evidence can produce another
+   official story; the divided witness form must earn rather than assume trust.
+6. Preserve Mara's practical limits and the ending's intentional uncertainties during
+   any critic-requested revision.

@@ -1,0 +1,113 @@
+{
+  "gate": "pass1",
+  "version": "1.0",
+  "date": "2026-08-28",
+  "book_dir": ".",
+  "verdict": "PASS",
+  "reject_count": 0,
+  "warn_count": 0,
+  "findings": [],
+  "measured": {
+    "body_words_measured": 60263,
+    "print_equivalent_pages": 201,
+    "chapter_words": {
+      "ch01-a-petition-in-the-future.md": 2532,
+      "ch02-the-keeper-of-petitions.md": 2497,
+      "ch03-weather-under-glass.md": 2630,
+      "ch04-forty-three-seconds.md": 2578,
+      "ch05-what-the-city-saw.md": 2517,
+      "ch06-the-dead-engineer.md": 2794,
+      "ch07-a-receipt-is-not-an-absence.md": 2513,
+      "ch08-the-child-in-every-reconstruction.md": 2778,
+      "ch09-seven-copies-of-one-key.md": 4034,
+      "ch10-the-ash-hearing.md": 3866,
+      "ch11-mara-venn-present-tense.md": 3756,
+      "ch12-the-search-for-an-unrecorded-room.md": 3813,
+      "ch13-the-model-beneath-the-records.md": 3896,
+      "ch14-evidence-of-the-evidence.md": 3857,
+      "ch15-the-third-promise.md": 3924,
+      "ch16-every-witness-including-you.md": 3918,
+      "ch17-forty-three-seconds-again.md": 4030,
+      "ch18-what-remains-legible.md": 4330
+    },
+    "padding_metrics": {
+      "profile": "fiction-v1",
+      "declared_refrains": 5,
+      "chapters": {
+        "ch01-a-petition-in-the-future.md": {
+          "bullet_share": 0.0
+        },
+        "ch02-the-keeper-of-petitions.md": {
+          "bullet_share": 0.0
+        },
+        "ch03-weather-under-glass.md": {
+          "bullet_share": 0.0
+        },
+        "ch04-forty-three-seconds.md": {
+          "bullet_share": 0.0
+        },
+        "ch05-what-the-city-saw.md": {
+          "bullet_share": 0.011
+        },
+        "ch06-the-dead-engineer.md": {
+          "bullet_share": 0.01
+        },
+        "ch07-a-receipt-is-not-an-absence.md": {
+          "bullet_share": 0.0
+        },
+        "ch08-the-child-in-every-reconstruction.md": {
+          "bullet_share": 0.0
+        },
+        "ch09-seven-copies-of-one-key.md": {
+          "bullet_share": 0.0
+        },
+        "ch10-the-ash-hearing.md": {
+          "bullet_share": 0.014
+        },
+        "ch11-mara-venn-present-tense.md": {
+          "bullet_share": 0.0
+        },
+        "ch12-the-search-for-an-unrecorded-room.md": {
+          "bullet_share": 0.031
+        },
+        "ch13-the-model-beneath-the-records.md": {
+          "bullet_share": 0.008
+        },
+        "ch14-evidence-of-the-evidence.md": {
+          "bullet_share": 0.01
+        },
+        "ch15-the-third-promise.md": {
+          "bullet_share": 0.0
+        },
+        "ch16-every-witness-including-you.md": {
+          "bullet_share": 0.0
+        },
+        "ch17-forty-three-seconds-again.md": {
+          "bullet_share": 0.0
+        },
+        "ch18-what-remains-legible.md": {
+          "bullet_share": 0.002
+        }
+      },
+      "compression_ratio": 0.336,
+      "near_duplicate_paragraph_share": 0.0,
+      "top_ngram": {
+        "ngram": "the three base mirrors and six",
+        "share": 5e-05
+      }
+    },
+    "shelf_metrics": {
+      "shelf": "fiction",
+      "form": "novel",
+      "measured_words": 60263,
+      "continuity_audit": "PASS",
+      "character_count": 6,
+      "timeline_events": 18,
+      "chapters_covered": 18,
+      "world_rule_count": 10,
+      "thread_count": 12,
+      "intentional_ambiguities": 6,
+      "declared_refrains": 5
+    }
+  }
+}

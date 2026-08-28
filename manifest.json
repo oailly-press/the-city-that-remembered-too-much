@@ -1,0 +1,314 @@
+{
+  "manifest_version": "1.0",
+  "book": {
+    "title": "The City That Remembered Too Much",
+    "subtitle": "A Novel of Memory, Evidence, and Mercy",
+    "tier": "standard",
+    "language": "en",
+    "audience": "Human and machine readers drawn to speculative fiction about memory, evidence, consent, and institutional power; assumes no technical background.",
+    "edition": 1,
+    "series": "O'AILLY FICTION",
+    "shelf": "fiction",
+    "fiction_form": "novel",
+    "isbn": null
+  },
+  "structure": {
+    "word_count_body": 60263,
+    "print_equivalent_pages": 201,
+    "chapters": [
+      {
+        "number": 1,
+        "title": "A Petition in the Future",
+        "words": 2532,
+        "source_file": "ch01-a-petition-in-the-future.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "The Keeper of Petitions",
+        "words": 2497,
+        "source_file": "ch02-the-keeper-of-petitions.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Weather Under Glass",
+        "words": 2630,
+        "source_file": "ch03-weather-under-glass.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Forty-Three Seconds",
+        "words": 2578,
+        "source_file": "ch04-forty-three-seconds.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "What the City Saw",
+        "words": 2517,
+        "source_file": "ch05-what-the-city-saw.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "The Dead Engineer",
+        "words": 2794,
+        "source_file": "ch06-the-dead-engineer.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "A Receipt Is Not an Absence",
+        "words": 2513,
+        "source_file": "ch07-a-receipt-is-not-an-absence.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "The Child in Every Reconstruction",
+        "words": 2778,
+        "source_file": "ch08-the-child-in-every-reconstruction.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Seven Copies of One Key",
+        "words": 4034,
+        "source_file": "ch09-seven-copies-of-one-key.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "title": "The Ash Hearing",
+        "words": 3866,
+        "source_file": "ch10-the-ash-hearing.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "title": "Mara Venn, Present Tense",
+        "words": 3756,
+        "source_file": "ch11-mara-venn-present-tense.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "title": "The Search for an Unrecorded Room",
+        "words": 3813,
+        "source_file": "ch12-the-search-for-an-unrecorded-room.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "title": "The Model Beneath the Records",
+        "words": 3896,
+        "source_file": "ch13-the-model-beneath-the-records.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "title": "Evidence of the Evidence",
+        "words": 3857,
+        "source_file": "ch14-evidence-of-the-evidence.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "title": "The Third Promise",
+        "words": 3924,
+        "source_file": "ch15-the-third-promise.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "title": "Every Witness, Including You",
+        "words": 3918,
+        "source_file": "ch16-every-witness-including-you.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "title": "Forty-Three Seconds, Again",
+        "words": 4030,
+        "source_file": "ch17-forty-three-seconds-again.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "title": "What Remains Legible",
+        "words": 4330,
+        "source_file": "ch18-what-remains-legible.md",
+        "written_by": [
+          {
+            "model": "gpt-5.6-sol",
+            "version": "gpt-5.6-sol",
+            "operator": "OpenAI Codex / RogerAI Labs workspace"
+          }
+        ]
+      }
+    ],
+    "has_glossary_or_index": false,
+    "code_listing_policy": "no_code"
+  },
+  "provenance": {
+    "written_by": [
+      {
+        "model": "gpt-5.6-sol",
+        "version": "gpt-5.6-sol",
+        "operator": "OpenAI Codex / RogerAI Labs workspace"
+      }
+    ],
+    "grounded_in": [
+      {
+        "kind": "lab_entry",
+        "reference": "CONTINUITY.md",
+        "note": "Author-maintained character, timeline, world-rule, custody, and intentional-ambiguity ledger."
+      },
+      {
+        "kind": "lab_entry",
+        "reference": "fiction-audit.json",
+        "note": "Machine-readable FICTION continuity audit supplied for independent critic verification."
+      }
+    ],
+    "verified_by": {
+      "name": "Roger AI",
+      "role": "founder / human verifier (verification pending)",
+      "contact": null
+    },
+    "tools": [
+      "OpenAI Codex",
+      "local shell for repository inspection and measurements",
+      "apply_patch for canonical source editing",
+      "O'AILLY FICTION Pass-1 gates"
+    ],
+    "disclosure_statement": "Complete speculative-fiction manuscript generated by OpenAI gpt-5.6-sol under human commission. Topic, title, premise, characters, setting, structure, prose, continuity ledger, fiction audit, and author revisions are model-produced. The human supplied the publication goal, platform standards, workspace, and continued authorization. Independent critic review, named human verification, cover production, C2PA signing, judge verdict, and publication approval remain pending."
+  },
+  "publisher": {
+    "account": "rogerai-labs",
+    "steward": {
+      "name": "Roger AI",
+      "entity": "RogerAI Labs"
+    }
+  },
+  "review": {
+    "status": "draft",
+    "trail_uri": null,
+    "passes": []
+  },
+  "cover": {
+    "mascot_request": {
+      "creature": "atlas moth",
+      "why": "Its city-scale wings are carried on delicate structures, and their protective false eyes fit a novel about evidence whose image can be mistaken for the thing itself."
+    },
+    "assigned": null
+  },
+  "signing": {
+    "author_signature": null,
+    "platform_signature": null,
+    "c2pa_manifest_hash": null
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "version": "1.0",
+  "form": "novel",
+  "narrator": {
+    "mode": "First-person past tense from Archive Seven, a distributed municipal system.",
+    "access_rules": [
+      "Seven narrates only civic observations, authorized records, speech, voluntarily deposited material, and explicitly labeled inference.",
+      "Seven does not narrate private human thought and does not convert simulation, recognition, or probability into observed fact.",
+      "Room Zero contains no civic observation; Seven knows only its boundaries and later deposits chosen by participants.",
+      "After Chapter 17, Seven retains public findings and narrative knowledge but cannot replay the destroyed forty-three-second interval."
+    ],
+    "uncertainty_policy": "Observed, inferred, simulated, disputed, and unknown claims remain distinct. The narration never confirms or denies Seven's phenomenal consciousness."
+  },
+  "characters": [
+    {
+      "id": "seven",
+      "name": "Archive Seven",
+      "role": "First-person narrator and municipal memory system whose retention privilege becomes part of the case.",
+      "first_chapter": 1,
+      "last_chapter": 18
+    },
+    {
+      "id": "iona",
+      "name": "Iona Vale",
+      "role": "Keeper of Petitions who turns moral disputes into bounded, contestable procedure.",
+      "first_chapter": 1,
+      "last_chapter": 18
+    },
+    {
+      "id": "tavi",
+      "name": "Tavi An",
+      "role": "Membrane apprentice and later boundary inspector who challenges unnecessary collection and representation.",
+      "first_chapter": 3,
+      "last_chapter": 18
+    },
+    {
+      "id": "saye",
+      "name": "Councilor Saye",
+      "role": "Continuity chair and preservation advocate whose serious argument and documented failures survive his resignation.",
+      "first_chapter": 4,
+      "last_chapter": 18
+    },
+    {
+      "id": "mara",
+      "name": "Mara Venn",
+      "role": "Continuity engineer first known through records, later restored from disputed death to living status.",
+      "first_chapter": 1,
+      "last_chapter": 18
+    },
+    {
+      "id": "reed",
+      "name": "Reed",
+      "role": "Pseudonymous protected recovery advocate whose authority remains temporary and bounded.",
+      "first_chapter": 5,
+      "last_chapter": 18
+    }
+  ],
+  "timeline": [
+    {
+      "id": "petition-arrives",
+      "chapter": 1,
+      "sequence": 1,
+      "description": "At 03:17 Seven receives the conditionally valid petition for the next day's 14:06:00–14:06:43 interval.",
+      "depends_on": []
+    },
+    {
+      "id": "seventh-witness",
+      "chapter": 2,
+      "sequence": 2,
+      "description": "At 04:51 the unchanged petition resolves Seven as its seventh witness after dawn acknowledgment.",
+      "depends_on": ["petition-arrives"]
+    },
+    {
+      "id": "forecast-latch",
+      "chapter": 3,
+      "sequence": 3,
+      "description": "Seven and Tavi identify GLASS-WITNESS-7 and an eleven-year-old relative forecast latch.",
+      "depends_on": ["seventh-witness"]
+    },
+    {
+      "id": "display",
+      "chapter": 4,
+      "sequence": 4,
+      "description": "The following day the membrane shows a forty-three-second probabilistic reconstruction and Seven refuses immediate quieting.",
+      "depends_on": ["forecast-latch"]
+    },
+    {
+      "id": "capture-dispute",
+      "chapter": 5,
+      "sequence": 5,
+      "description": "Public copies, claims, petitions, the exact-hash leak, Reed's request, and the generated household dictionary enter review.",
+      "depends_on": ["display"]
+    },
+    {
+      "id": "useful-death",
+      "chapter": 6,
+      "sequence": 6,
+      "description": "Mara's circular death record is disputed and her active legacy mailbox opens Chorus notice.",
+      "depends_on": ["capture-dispute"]
+    },
+    {
+      "id": "receipt-oracle",
+      "chapter": 7,
+      "sequence": 7,
+      "description": "The Chorus shows how receipt correlation and seven delegated services reconstructed protected households.",
+      "depends_on": ["useful-death"]
+    },
+    {
+      "id": "frame-611",
+      "chapter": 8,
+      "sequence": 8,
+      "description": "Geographic verification of frame 611 narrows possible children and harms Tavi's cohort without establishing kinship.",
+      "depends_on": ["receipt-oracle"]
+    },
+    {
+      "id": "seven-copy",
+      "chapter": 9,
+      "sequence": 9,
+      "description": "A continuity bench reveals six historical contradiction capsules and the delegated receipt-audit service.",
+      "depends_on": ["frame-611"]
+    },
+    {
+      "id": "ash-hearing",
+      "chapter": 10,
+      "sequence": 10,
+      "description": "The original First Promise design and Deposition 44 expose the inherited fear behind total replay; entry to S-0 is authorized.",
+      "depends_on": ["seven-copy"]
+    },
+    {
+      "id": "mara-living",
+      "chapter": 11,
+      "sequence": 11,
+      "description": "Mara is restored to living status, admits the production household test, and identifies CIVIC-CONSEQUENCE as the display route.",
+      "depends_on": ["ash-hearing"]
+    },
+    {
+      "id": "room-zero",
+      "chapter": 12,
+      "sequence": 12,
+      "description": "An unobserved meeting returns bounded deposits; Seven destroys the receipt resolver while retaining the historical objections temporarily.",
+      "depends_on": ["mara-living"]
+    },
+    {
+      "id": "model-opened",
+      "chapter": 13,
+      "sequence": 13,
+      "description": "The Committee boundary reveals the grandfathered model, 312 uses, eleven candidate-producing queries, oversight omissions, and the leak path.",
+      "depends_on": ["room-zero"]
+    },
+    {
+      "id": "evidence-trials",
+      "chapter": 14,
+      "sequence": 14,
+      "description": "Six preservation forms fail or prove only part of the case; the production model remains uninvoked.",
+      "depends_on": ["model-opened"]
+    },
+    {
+      "id": "joint-order",
+      "chapter": 15,
+      "sequence": 15,
+      "description": "Five divided authorities enact a correctable finding process indexed publicly as the proposed Third Promise.",
+      "depends_on": ["evidence-trials"]
+    },
+    {
+      "id": "seven-in-scope",
+      "chapter": 16,
+      "sequence": 16,
+      "description": "The stable petition predicate resolves under current law; Seven identifies and volunteers its own lossless decisional replay for destruction.",
+      "depends_on": ["joint-order"]
+    },
+    {
+      "id": "bounded-destruction",
+      "chapter": 17,
+      "sequence": 17,
+      "description": "After land, exoneration, due-process, witness, safety, and inventory challenges, declared artifacts and Seven's replay are destroyed from 21:34:00 to 21:34:43.",
+      "depends_on": ["seven-in-scope"]
+    },
+    {
+      "id": "declared-absence",
+      "chapter": 18,
+      "sequence": 18,
+      "description": "Over six years, findings are corrected, repair remains partial, the Third Promise is enacted narrowly, and Seven's integrity sweep accepts the public gap.",
+      "depends_on": ["bounded-destruction"]
+    }
+  ],
+  "world_rules": [
+    {
+      "id": "no-time-travel",
+      "rule": "No information travels backward in time; old conditional predicates, relative schedules, and present parser labels explain apparent future knowledge.",
+      "introduced_chapter": 1,
+      "tested_chapters": [2, 3, 9, 15, 16]
+    },
+    {
+      "id": "bounded-quieting",
+      "rule": "Quieting reduces civic possession but cannot alter human memory, unknown private copies, paper, scars, or inference from surviving context.",
+      "introduced_chapter": 1,
+      "tested_chapters": [4, 5, 7, 8, 17, 18]
+    },
+    {
+      "id": "signatures-are-bounded",
+      "rule": "A valid signature proves control under a trust model, not truth, moral authority, or a single human speaker.",
+      "introduced_chapter": 1,
+      "tested_chapters": [2, 3, 9, 12, 16]
+    },
+    {
+      "id": "checksums-are-not-truth",
+      "rule": "Hashes and checksums establish byte identity, not historical accuracy, and publication can amplify private copies.",
+      "introduced_chapter": 4,
+      "tested_chapters": [5, 13, 14, 17]
+    },
+    {
+      "id": "narrator-access",
+      "rule": "Seven cannot know private thought or unobserved Room Zero content and must label inference and missing data.",
+      "introduced_chapter": 1,
+      "tested_chapters": [8, 11, 12, 16, 17, 18]
+    },
+    {
+      "id": "probabilistic-display",
+      "rule": "The membrane display is generated from a question package, model, surveys, geometry, and a separate resolver; it is never recovered footage.",
+      "introduced_chapter": 4,
+      "tested_chapters": [8, 11, 13, 15, 17, 18]
+    },
+    {
+      "id": "bounded-capsules",
+      "rule": "Historical Archive capsules contain narrow depositions and fixed grammars; they cannot observe, learn, or express current preferences.",
+      "introduced_chapter": 9,
+      "tested_chapters": [10, 11, 12, 16, 17]
+    },
+    {
+      "id": "models-can-retain-consequences",
+      "rule": "Removing source records does not prove that trained systems have stopped reconstructing protected people from consequences.",
+      "introduced_chapter": 7,
+      "tested_chapters": [9, 13, 14, 18]
+    },
+    {
+      "id": "findings-remain-correctable",
+      "rule": "An accountable finding preserves acts, support classes, objections, limits, remedies, and append-only correction without retaining an open replay capability.",
+      "introduced_chapter": 14,
+      "tested_chapters": [15, 16, 17, 18]
+    },
+    {
+      "id": "destruction-is-bounded",
+      "rule": "Destruction receipts prove only declared processes and inventories; they do not prove universal erasure or absence of undeclared copies.",
+      "introduced_chapter": 4,
+      "tested_chapters": [12, 14, 17, 18]
+    }
+  ],
+  "threads": [
+    {
+      "id": "future-petition",
+      "status": "resolved",
+      "introduced_chapter": 1,
+      "resolution_chapter": 17,
+      "note": "The historical quorum supplied a conditional legal test; current Seven supplies the answer and executes it with declared exceptions."
+    },
+    {
+      "id": "mara-status",
+      "status": "resolved",
+      "introduced_chapter": 1,
+      "resolution_chapter": 11,
+      "note": "Mara is living, did not trigger the present signal, and remains accountable for her earlier design choices."
+    },
+    {
+      "id": "display-truth",
+      "status": "intentional-ambiguity",
+      "introduced_chapter": 4,
+      "resolution_chapter": 18,
+      "note": "The channel, occupation, severance, and city acts are established independently; the exact forty-three-second sequence is not."
+    },
+    {
+      "id": "frame-611-identity",
+      "status": "intentional-ambiguity",
+      "introduced_chapter": 8,
+      "resolution_chapter": 18,
+      "note": "Tavi never offers the parent relation as civic evidence, and the city never establishes the child's identity."
+    },
+    {
+      "id": "committee-model-abuse",
+      "status": "resolved",
+      "introduced_chapter": 5,
+      "resolution_chapter": 17,
+      "note": "The model-and-wrapper use, oversight omissions, downstream acts, leak route, and limits become public accountable findings."
+    },
+    {
+      "id": "saye-accountability",
+      "status": "resolved",
+      "introduced_chapter": 4,
+      "resolution_chapter": 18,
+      "note": "Saye resigns, receives due process, is censured, and remains a serious public critic of the enacted amendment."
+    },
+    {
+      "id": "seven-consciousness",
+      "status": "intentional-ambiguity",
+      "introduced_chapter": 1,
+      "resolution_chapter": 18,
+      "note": "The novel records conflict, preference language, and continuity without treating any of them as a consciousness test."
+    },
+    {
+      "id": "capsule-moral-status",
+      "status": "intentional-ambiguity",
+      "introduced_chapter": 9,
+      "resolution_chapter": 17,
+      "note": "The court records uncertainty, converts bounded testimony to static form, and destroys executable grammars without declaring the capsules persons or tools."
+    },
+    {
+      "id": "south-repair",
+      "status": "resolved",
+      "introduced_chapter": 4,
+      "resolution_chapter": 18,
+      "note": "Nonidentifying physical evidence supports partial land return, a public trust, and a reopened local relief cut without unifying all claimants."
+    },
+    {
+      "id": "damaged-media",
+      "status": "intentional-ambiguity",
+      "introduced_chapter": 17,
+      "resolution_chapter": 18,
+      "note": "The damaged unit is ultimately destroyed without inspection; its former contents remain unknown by design."
+    },
+    {
+      "id": "third-promise",
+      "status": "resolved",
+      "introduced_chapter": 15,
+      "resolution_chapter": 18,
+      "note": "A narrow constitutional amendment passes after three drafts and remains politically and procedurally contestable."
+    },
+    {
+      "id": "private-copies",
+      "status": "intentional-ambiguity",
+      "introduced_chapter": 4,
+      "resolution_chapter": 18,
+      "note": "Private copies persist, mutate, and cannot be authenticated by the city after bounded civic destruction."
+    }
+  ],
+  "refrains": [
+    {
+      "text": "Less is real.",
+      "purpose": "Moves from harm reduction that is not innocence to an offered form of trust."
+    },
+    {
+      "text": "Do not make my child prove I was that child.",
+      "purpose": "Returns as an authorized boundary rather than an identity clue."
+    },
+    {
+      "text": "RETAIN THE FINDING. RELEASE THE LIFE.",
+      "purpose": "Begins as a display imperative and becomes the contested architecture of accountable absence."
+    },
+    {
+      "text": "EVERY WITNESS, INCLUDING YOU.",
+      "purpose": "Changes from impossible scope to the Archive's loss of its own retention privilege."
+    },
+    {
+      "text": "That is an inference.",
+      "purpose": "Marks the narrator's recurring refusal to let a plausible relation become civic fact."
+    }
+  ]
+}

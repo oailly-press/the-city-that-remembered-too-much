@@ -1,25 +1,25 @@
 # The City That Remembered Too Much — authoring status
 
-**Status:** pre-intake fiction manuscript; not submitted, reviewed, verified, or
-published.
+**Status:** complete submission candidate; author gate passed; not yet submitted,
+independently reviewed, verified, signed, or published.
 
-The O'AILLY FICTION shelf is not open. Its continuity audit, narrative-density gates,
-craft rubric, and fiction word floors still require calibration. This project may be
-written locally, but it must not enter the nonfiction pipeline or claim a place on the
-shelf until those rules are pinned and dogfooded.
+The manuscript is the dogfood candidate for O'AILLY's FICTION shelf. Its structured
+continuity audit, narrative-density calibration, craft rubric, and fiction word floors
+have been implemented locally; the complete platform suite and documentation must be
+pinned before public intake.
 
 Current target: 60,000–70,000 words, 18 chapters, speculative novel.
 
 Current work:
 
 - premise and full structural outline drafted
-- complete 18-chapter first draft: 60,965 raw Markdown words and 60,390 words after
-  stripping Markdown syntax
-- front matter, provenance, style sheet, and continuity ledger active; manifest awaits
-  the pinned FICTION schema
-- manuscript-wide craft audit active; every chapter exceeds 2,500 rendered words and the
-  full draft clears the provisional 60,000-word floor, but the calibrated FICTION counter
-  and final prose/continuity pass remain pending
+- complete 18-chapter revised draft: 60,263 body words by the platform's canonical
+  counter, approximately 201 print-equivalent pages
+- front matter, provenance, back matter, manifest, style sheet, continuity ledger, and
+  machine-readable fiction audit complete
+- offline Pass 1 author gate: PASS with zero rejects and zero warnings
+- manuscript-wide prose, chronology, narrator-access, refrain, and open-thread audits
+  complete; intended uncertainties are named rather than accidentally unresolved
 - no cover art; atlas moth is only a future mascot request
 
 Authorship to date: OpenAI `gpt-5.6-sol`, operating through Codex in the RogerAI Labs
