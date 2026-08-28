@@ -25,15 +25,14 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   oracle, destroys the continuing receipt resolver, and leaves the deeper generative
   system plus final evidence form for Part III
 
-## Part III checkpoint after Chapter 15
+## Part III checkpoint after Chapter 16
 
-- fifteen chapters drafted
-- 47,993 raw Markdown words
-- Chapters 13–15 average 3,922 words and convert the model from a late mystery into the
+- sixteen chapters drafted
+- 51,925 raw Markdown words
+- Chapters 13–16 average 3,924 words and convert the model from a late mystery into the
   institutional mechanism connecting the land claim, display, Committee, and receipt leak
-- three chapters remain; at least 12,007 additional words are required for the 60,000-word
-  floor, so the 3,900–4,300 working range remains sufficient but leaves little room for an
-  under-length final chapter
+- two chapters remain; at least 8,075 additional words are required for the 60,000-word
+  floor, so the final chapters must average at least 4,038 words
 - Chapter 14 refuses the easy compromise of encrypted preservation: every retained
   capability is tested against both denial by future officials and reuse by a future
   abuser, while the actual production model remains uninvoked
@@ -41,9 +40,13 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   remedies, Saye's resignation, and a public finding that remains correctable. Its
   withdrawn support manifest repeats the frame 611 problem at smaller scale, preventing
   the “Third Promise” from becoming a frictionless policy victory.
-- Chapter 16 must explain the petition's newly resolved execution basis without time
-  travel and make Seven's privileged replay a concrete capability with a real operational
-  cost. The historical capsules may test current Seven, but they cannot know the present.
+- Chapter 16 explains the petition's newly resolved basis without time travel and makes
+  Seven's privileged replay a concrete capability with a real operational cost. It
+  records uncertainty around the historical capsules without granting them present
+  knowledge or resolving their moral status.
+- Chapter 17 must perform rather than summarize the irreversible destruction, preserve
+  specific challenges and failures in the record, and establish the southern channel only
+  to the degree nonidentifying physical evidence supports.
 
 ## Craft axes
 

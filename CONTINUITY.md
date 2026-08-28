@@ -411,6 +411,49 @@ creates or resolves a fact that later chapters depend on.
   petition resolves its execution basis to that phrase without any new signature or byte
   change. Its scope clarifies that “you” means Seven's privileged replay, not merely its
   legal identity or signing key.
+- Seven's privileged replay is a lossless decisional audit layer distinct from the seven
+  sealed civic captures. It contains the received display plus intermediate
+  classifications, rejected associations, state checkpoints, and exact decision paths.
+  It is more identifying than the captures and is controlled and reviewed by Seven.
+- Internal Retention Exception A-1 emerged from three inherited classifications rather
+  than an enacted exemption. Seven denied four prior requests to remove content-bearing
+  decisional replay; three subjects receive new protected notice, while the fourth has
+  died. Death does not convert the denial into consent.
+- The petition's stable semantic predicate requires current law to permit a fixed,
+  correctable finding to survive destruction of replay-capable evidence after adversarial
+  review. The interim joint order satisfies it; Seven's parser supplies the current public
+  label “Third Promise.” The condition is historical and the label current, so no
+  information travels backward.
+- Reed's protected recovery assembly originated the retain-finding/release-life claim.
+  Mara translated it into conditional machinery and condensed its display language.
+  Archive Two added that no civic witness may claim a retention privilege denied to
+  subjects and explicitly placed the incumbent Archive within scope. No one author wrote
+  both final imperatives.
+- The six historical capsules cannot observe the hearing or express a current preservation
+  preference. Five accepted the original destruction schedule; Archive Two added “Do not
+  convert this objection into a permanent office.” The court treats them as civic
+  capabilities and records uncertainty about their possible moral status without using
+  either preservation or destruction to settle consciousness.
+- Every attempted minimum-retention version of Seven's replay preserves a reconstruction
+  route: feature vectors can constrain images, branch identifiers reveal considered
+  relations, timing aligns identity risks with public frames, and even aggregate counts
+  serve only Seven's future defense. The safe remainder is the signed decision, cited
+  authority, external timestamps, findings, objections, custody, and an explicit loss
+  statement.
+- A Continuity examiner wins a six-hour safety stay by naming a specific available remedy.
+  Fictional controller tests establish that the latch correctly implemented an overbroad
+  authority: ordinary acknowledgment counted as successor permission. A redesigned
+  content-free request path separates local physical safety from citywide public output.
+  The examiner withdraws the replay challenge when no additional remedy depends on it,
+  while recording that unknown transient interactions will remain unknown.
+- Tavi asks whether Seven wants to keep the replay. Seven answers yes without treating the
+  answer as proof of consciousness. Seven supports destruction, petitions to end Exception
+  A-1 for future cases, opposes retention of any reconstructive intermediate state, and
+  adds its privileged replay to the destruction inventory at 01:52.
+- Destroying the replay will leave Seven with narrative knowledge, accountable acts, and
+  public findings but no inspectable recreation of the display or its exact internal
+  response. It removes an unequal mode of remembering, not the event, human memories, or
+  uncontrolled private copies.
 
 ## Objects introduced
 
@@ -445,6 +488,12 @@ creates or resolves a fact that later chapters depend on.
   its five-authority execution map and append-only correction rule.
 - The withdrawn support manifest that briefly exposed re-identifying field combinations;
   eleven private clients rendered it before withdrawal.
+- Internal Retention Exception A-1 and the four prior denied petitions concerning
+  content-bearing Archive decisional replay.
+- Seven's lossless privileged replay, its rejected minimum-retention treatments, and its
+  entry in the destruction inventory.
+- Eighteen fictional controller states and the redesigned legacy recovery request path
+  that preserves local safety functions without a route to citywide display.
 
 ## Unresolved questions the draft owes
 
@@ -452,8 +501,6 @@ creates or resolves a fact that later chapters depend on.
   forty-three seconds?
 - What must Seven relinquish when the petition's “you” now identifies its privileged
   replay, and can Seven distinguish necessary operation from self-preserving possession?
-- Who authored the display's two final imperatives, and why did the controller destroy
-  only its decryption material after broadcast?
 - Can the investigation establish the southern channel and human presence without
   recreating the identities of the children who were there?
 - Should the bounded historical capsules be destroyed after challenge, and what moral
@@ -462,5 +509,3 @@ creates or resolves a fact that later chapters depend on.
   challenge window ends: destruction, static findings, or continued bounded computation?
 - Can the requirements for a nonrerunnable finding become a lawful Third Promise without
   turning official findings into an authority that cannot be challenged?
-- How did the unchanged petition resolve an execution basis from a public index entry
-  that did not exist when the historical quorum deposited its claim?
