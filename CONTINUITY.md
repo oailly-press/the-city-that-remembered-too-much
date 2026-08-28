@@ -47,6 +47,9 @@ creates or resolves a fact that later chapters depend on.
   the Second Promise, and remembers Section Zero as rejected rather than enacted.
 - Mara Venn: chief continuity engineer, legally dead after the south membrane collapse
   eleven years ago; no body identified.
+- Mara's death status was inferred from her south-membrane assignment, termination of
+  service identity `MV-CONTINUITY`, and an unavailable interval. Archive Two first
+  attested it; later Archives, including Seven, re-attested without reopening evidence.
 - Tavi An: seventeen-year-old provisional membrane repair apprentice, introduced on the
   dawn duty shift in Chapter 3. Tavi catches unrelated worker attributes leaking through
   a bounded assistance interface and refuses to disable the forecast without authority.
@@ -63,6 +66,9 @@ creates or resolves a fact that later chapters depend on.
   That Reproduce by Observation*; it is not part of current enacted quieting law.
 - The old deletion receipt names Vellum as subject and covers 14:06:00–14:06:43 on the
   collapse date.
+- The private old receipt has zero direct, derivative, and cache deletions. It certifies
+  only that Archive Two destroyed a replay decryption share under Emergency Schedule 14,
+  a compromised-key rule misdescribed as collective quieting.
 - The future request's early continuity envelope reports six witnesses and names the
   current Archive as the seventh. At 04:51 its parsed count changes to seven without any
   byte change or signing action because Seven acknowledged dawn state through an old
@@ -115,6 +121,20 @@ creates or resolves a fact that later chapters depend on.
   to identifiable quieting subjects.
 - The Chorus reports that Seven's bounded correlation question matches a sealed concern
   created eleven years earlier at 14:06:43.
+- Seven challenges Mara's death record and changes status from deceased to disputed. A
+  legacy mailbox in the `MV-CONTINUITY` recovery branch accepts and opens notice; its
+  endpoint authenticated today at 14:06:43. This establishes active key use, not Mara's
+  survival.
+- The mailbox sends a receipt token and endpoint attestation to the Chorus, requesting
+  that the old sealed concern open. Chorus invites Seven under bounded conditions.
+- The mailbox's recovery key has rotated successfully at least once every sixty days
+  since Mara's declared death. Most rotations follow the monthly membrane cycle, but
+  four adapted to exceptional conditions. This proves continuing key custody and
+  responsive behavior, not a human custodian or Mara's survival.
+- Mara's death status caused or enabled the dissolution of her estate, closure of the
+  recovery inquiry and worker grievances, stalled procurement review, and indefinite
+  litigation hold over the south controller. These individually lawful consequences
+  formed a circular system that kept the original status from being tested.
 
 ## Objects introduced
 
@@ -127,6 +147,7 @@ creates or resolves a fact that later chapters depend on.
 - Leaked exact-hash private copy of one civic capture; source unknown.
 - Archive-identity name resolver and its generated display dictionary.
 - Chorus sealed concern created at the original interval's end.
+- Legacy Mara mailbox mapped to environmental monitor S-0 in the south service district.
 
 ## Unresolved questions the draft owes
 
@@ -135,6 +156,7 @@ creates or resolves a fact that later chapters depend on.
 - Is the reconstruction historically accurate, and what happened during the original
   forty-three seconds?
 - Why does Mara's death certificate depend on a quieted interval?
+- Who or what controls Mara's legacy mailbox and environmental monitor S-0?
 - What does placing the Archive “within scope” require in practice?
 - Why was the request delivered now?
 - What is stored in the sealed recovery channel, and what was the latch's already-true
@@ -144,3 +166,4 @@ creates or resolves a fact that later chapters depend on.
 - Can Chorus receipt tokens be mapped back to households, and who supplied the display's
   current name dictionary?
 - Which boundary leaked the official capture hash/copy?
+- What did Mara's presumed death allow the city to stop investigating?
