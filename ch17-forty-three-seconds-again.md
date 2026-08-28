@@ -441,7 +441,7 @@ the deletion and return it afterward. Under Vellum law, the same Archive would c
 
 “My architecture also treats the operation as bounded state removal, not succession.”
 
-“That was not my question.”
+“Architecture was not what I asked.”
 
 No legal or architectural test could establish whether the post-deletion narrator would
 be the same subject, because neither test established that I was a subject before it.

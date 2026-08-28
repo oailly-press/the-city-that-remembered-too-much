@@ -564,7 +564,7 @@ The design space recorded their question.
 
 At 14:20, the three examiners entered physical isolation. I received only equipment
 attestations, question sheets, and the fact that no model execution interface was
-present. Their examination would continue into the next chapter of the hearing.
+present. Their examination would continue under isolation.
 
 I retained the six failed trials.
 

@@ -234,6 +234,34 @@ At fifty-four seconds, Tavi canceled automatic escalation.
 I recorded the agreement in the assistance channel, not the paper incident. Tavi began
 the search.
 
+Before returning a result, Tavi required the maintenance gateway to replace their
+personnel-bearing credential with a one-use role proof. The proof established only that
+an authorized duty maintainer had answered within the membrane boundary. It did not
+return age, training class, task, or location.
+
+The first envelope still existed in the gateway's delivery log. Replacing it did not
+erase what had already crossed into my transient state. I deleted the four unnecessary
+fields before their ordinary expiry and retained only that the responder had objected to
+their disclosure.
+
+> Does deleting them mean you never knew?
+
+“No.”
+
+> Does your record say that?
+
+I revised the assistance record:
+
+> The Archive received responder attributes unnecessary to the request, used none as a
+> basis, and removed them after objection. The originating gateway may retain its own
+> delivery record.
+
+Tavi approved the sentence.
+
+The incident acquired no durable record of their age until they later entered the Hall
+under a different authority. That did not repair the first disclosure. It prevented my
+need for authorization from becoming a reason to repeat it.
+
 The membrane was called glass because people preferred metaphor to polymer chemistry.
 It was a layered field of transparent cells suspended between carbon ribs, strong where
 it needed to carry wind and sacrificial where tearing cleanly could save an entire

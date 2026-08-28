@@ -3,7 +3,7 @@
 > ACCOUNTABLE ABSENCE 000001  
 > Public finding: retained  
 > Replay-capable civic basis: destroyed with declared exceptions  
-> Corrections appended: 2  
+> Corrections appended: 3
 > Claims of completeness: 0  
 > Public access: continuous  
 > Content access: impossible by design

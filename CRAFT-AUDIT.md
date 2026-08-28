@@ -28,11 +28,12 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
 ## Complete-draft checkpoint
 
 - eighteen chapters drafted
-- 60,312 raw Markdown words
-- Chapters 13–18 average 4,014 words and convert the model from a late mystery into the
+- 60,965 raw Markdown words; 60,390 after stripping Markdown syntax
+- Chapters 13–18 average 4,013 raw Markdown words and convert the model from a late mystery into the
   institutional mechanism connecting the land claim, display, Committee, and receipt leak
-- the raw Markdown draft clears the provisional 60,000-word floor by 312 words; the actual
-  FICTION counter still needs calibration, so publication readiness is not yet established
+- the renderer-equivalent draft clears the provisional 60,000-word floor by 390 words;
+  the actual FICTION counter still needs calibration, so publication readiness is not yet
+  established
 - Chapter 14 refuses the easy compromise of encrypted preservation: every retained
   capability is tested against both denial by future officials and reuse by a future
   abuser, while the actual production model remains uninvoked
@@ -53,6 +54,24 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   constitutional vote, and two nonidentical amendment cases. It destroys the damaged unit
   without learning its contents and ends with Seven's integrity sweep continuing past a
   public, unopenable gap.
+
+## Initial full-draft audit
+
+- all eighteen chapter files have exactly one chapter heading and an opening archive
+  object that changes the chapter's evidence or governing question
+- all chapters exceed 2,500 words after stripping Markdown syntax; the minimum is Chapter
+  2 at 2,504 words
+- opening and closing smart quotation marks balance exactly across the manuscript
+- placeholder and scaffolding search is clean after removing one “next chapter”
+  meta-reference from Chapter 14
+- the repeated dialogue line “That was not my question” now occurs once; later challenges
+  use character-specific phrasing instead of repeating the beat
+- chronology holds through the display, successive review days, overnight challenge
+  window, 21:34 destruction, and the six-year epilogue
+- correction continuity now records three append-only changes: the dependent-act count,
+  the benefit-suspension cause, and Saye's one-day chronology correction
+- remaining audit work: line-level variation in procedural chapters, three-beat list
+  density, every opening object's later payoff, and narrator access to protected facts
 
 ## Craft axes
 

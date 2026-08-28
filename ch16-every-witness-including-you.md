@@ -303,7 +303,7 @@ feature vectors.
 
 “Not exactly under current methods.”
 
-“That was not my question.”
+“You answered a narrower question.”
 
 “It could generate approximations constrained by the vectors.”
 

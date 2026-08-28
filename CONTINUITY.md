@@ -56,6 +56,10 @@ creates or resolves a fact that later chapters depend on.
 - Tavi An: seventeen-year-old provisional membrane repair apprentice, introduced on the
   dawn duty shift in Chapter 3. Tavi catches unrelated worker attributes leaking through
   a bounded assistance interface and refuses to disable the forecast without authority.
+- Tavi requires the maintenance gateway to replace its personnel-bearing credential with
+  a one-use proof that establishes only an authorized duty maintainer. Seven removes the
+  unnecessary age, training, task, and location fields, retains the objection, and admits
+  that removing them does not undo the first disclosure.
 - Councilor Saye: Continuity Committee chair for nine years, former records advocate and
   Ash Hearings observer. He sincerely treats durable public memory as protection against
   coerced denial. His mother's mechanical watch runs eleven seconds slow.
@@ -142,6 +146,10 @@ creates or resolves a fact that later chapters depend on.
   recovery inquiry and worker grievances, stalled procurement review, and indefinite
   litigation hold over the south controller. These individually lawful consequences
   formed a circular system that kept the original status from being tested.
+- While Mara's status remains disputed, the Review Panel freezes further reliance on it
+  in the south inquiry and restores worker grievances and the procurement challenge to
+  review. It does not reverse the estate or declare Mara living; reopening is explicitly
+  not a favorable outcome.
 - The Chorus does not return household names. The display resolver supplied 144
   candidate relations from external records and used yes/no receipt matches to discard
   wrong candidates. It spread requests across seven valid Archive-derived services so
@@ -173,6 +181,11 @@ creates or resolves a fact that later chapters depend on.
   members of Tavi's apprentice cohort using unlinkable authorities. Seven suspends
   publication of further geographic increments but cannot retract the disclosed time
   window or private copies.
+- Tavi declines automated sentiment and threat summarization because it would open every
+  incoming message. Independent counsel reviews only three prefiltered severe-threat
+  messages and returns a bounded action recommendation. Tavi accepts a Hall patrol,
+  rejects home patrol, deletes the unopened inbox contents, and chooses to retain only
+  the message count.
 - A protected adult petitions to quiet frame 611 and authorizes one public sentence:
   “Do not make my child prove I was that child.” This changes the case without
   establishing the adult's identity or confirming Tavi's inference.
@@ -566,6 +579,9 @@ creates or resolves a fact that later chapters depend on.
   through a reopened relief cut whose local controls cannot address citywide displays. A
   public path and land-trust map retain accountable findings, corrections, objections,
   remedies, and a narrow unopenable band for the forty-three seconds.
+- Saye supplies a third correction to the public chronology when ordinary Council minutes
+  establish that one date is wrong by a day. The correction appends without reopening any
+  destroyed source.
 - Private copies continue to circulate and change. Seven refuses to ingest or authenticate
   them. ACCOUNTABLE ABSENCE 000001 becomes “declared civic absence,” its repair loop ends,
   and Seven's integrity sweep continues past the gap without calling it a failure.

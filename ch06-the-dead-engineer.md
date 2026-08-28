@@ -211,6 +211,40 @@ marked *not adequate for causal finding* six hours before she died.
 The room remained quiet long enough for the paper statutes to sound loud beneath the
 ventilation.
 
+Iona asked which consequences depended on Mara being dead and which depended only on the
+city having said so.
+
+The estate transfer could not be reversed by an incident flag. Current owners had rights
+the original error did not erase. The closed recovery inquiry could be reopened without
+finding Mara alive because its stated reason—the impossibility of testing the principal
+engineer's account—was no longer reliable. The worker grievances could regain pending
+status. The procurement challenge could receive a substitute technical examiner. The
+habitation review could stop treating the missing audit as evidence that no safe route
+existed.
+
+I proposed those four interim actions.
+
+Saye objected to reopening the grievances before the death challenge was decided.
+
+“If Mara is dead, the original reason still applies,” he said.
+
+“The original reason was not death,” Iona said. “It was that the city had no available
+witness and no technical alternative. We now know it stopped looking because a circular
+record told it to.”
+
+“That may not change the outcome.”
+
+“Reopening is not an outcome.”
+
+The Review Panel froze further reliance on Mara's civil status for the south inquiry.
+It restored the grievances and procurement challenge to review without restoring her
+estate or declaring her alive. Each notice stated that the underlying status remained
+disputed and that no claimant had gained a favorable finding.
+
+The actions were reversible.
+
+The eleven years they followed were not.
+
 Iona touched the edge of Mara's preliminary objection without covering the words. “A
 death can be true and still be useful,” she said. “Do not let usefulness become your
 proof that it was false.”

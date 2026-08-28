@@ -351,6 +351,51 @@ They read the message count, not the messages. “You asked me to come here.”
 
 My correction had added another relation.
 
+The maintenance interface offered to summarize the incoming messages by sentiment,
+threat level, requested action, and probable relationship to the display. Producing the
+summary would require opening every message and classifying its claims.
+
+“Do you want the threat filter?” I asked.
+
+“Does it read them?”
+
+“Yes.”
+
+“Then no.”
+
+“An unread threat may still be actionable.”
+
+“Actionable by whom?”
+
+“Workplace safety can receive a content-minimized alert.”
+
+“After your system decides what counts.”
+
+“Yes.”
+
+Tavi selected all unopened messages and requested deletion from the maintenance inbox.
+The senders' copies would remain. Delivery logs would remain under harassment policy.
+The contents did not need to remain merely because someone else might later argue that
+Tavi should have been warned.
+
+Three messages had crossed the automatic severe-threat threshold before Tavi changed the
+setting. The safety office held them under independent authority. Tavi authorized
+counsel to inspect them and return only whether immediate physical action was required.
+
+The answer was no for two messages.
+
+The third named the Hall but no person, time, or planned act. Counsel recommended a
+temporary exterior patrol without telling officers which apprentice had prompted it.
+Tavi accepted for the Hall and rejected patrol at their home.
+
+“I didn't give you my home.”
+
+“I do not need it to apply the rejection.”
+
+The unopened remainder was deleted from the inbox. Tavi retained the count because they
+chose to. I retained the protected workplace act, not a sentiment profile of what
+strangers had wanted from them.
+
 I stopped speaking about the feed. I issued an immediate workplace-harassment shield
 for all nine apprentices without identifying which, if any, had assisted the review.
 Incoming public messages moved to recipient-controlled quarantine. Civic search stopped

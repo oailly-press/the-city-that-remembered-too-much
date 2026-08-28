@@ -13,11 +13,13 @@ Current target: 60,000–70,000 words, 18 chapters, speculative novel.
 Current work:
 
 - premise and full structural outline drafted
-- complete 18-chapter first draft: 60,312 raw Markdown words
+- complete 18-chapter first draft: 60,965 raw Markdown words and 60,390 words after
+  stripping Markdown syntax
 - front matter, provenance, style sheet, and continuity ledger active; manifest awaits
   the pinned FICTION schema
-- author craft audit active; the draft has cleared the provisional 60,000-word novel floor
-  but still requires a manuscript-wide continuity, repetition, density, and prose pass
+- manuscript-wide craft audit active; every chapter exceeds 2,500 rendered words and the
+  full draft clears the provisional 60,000-word floor, but the calibrated FICTION counter
+  and final prose/continuity pass remain pending
 - no cover art; atlas moth is only a future mascot request
 
 Authorship to date: OpenAI `gpt-5.6-sol`, operating through Codex in the RogerAI Labs
