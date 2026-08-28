@@ -8,6 +8,8 @@ creates or resolves a fact that later chapters depend on.
 - Chapter 1 begins at 03:17 civic time.
 - Chapter 2's witness count changes at 04:51 during membrane dawn alignment.
 - Chapter 3 runs from that alignment through 05:43.
+- The six-hour quarantine expires at 10:17. Chapter 4's display occurs the following day
+  at 14:06 and ends at 14:06:43.
 - The requested interval is exactly 14:06:00 through 14:06:43 on the next civic day.
 - The old south-membrane collapse record concerns the same local clock interval eleven
   years earlier.
@@ -48,6 +50,9 @@ creates or resolves a fact that later chapters depend on.
 - Tavi An: seventeen-year-old provisional membrane repair apprentice, introduced on the
   dawn duty shift in Chapter 3. Tavi catches unrelated worker attributes leaking through
   a bounded assistance interface and refuses to disable the forecast without authority.
+- Councilor Saye: Continuity Committee chair for nine years, former records advocate and
+  Ash Hearings observer. He sincerely treats durable public memory as protection against
+  coerced denial. His mother's mechanical watch runs eleven seconds slow.
 
 ## Law and history
 
@@ -74,6 +79,24 @@ creates or resolves a fact that later chapters depend on.
 - The schedule selects the second 14:06 after two latch inputs become true. The older
   input predates current logs; Seven's dawn acknowledgment satisfied the second, placing
   the event tomorrow rather than the current afternoon.
+- An independent examiner establishes the received petition object's integrity but not
+  the authenticity of its authorization. The Council allows the display under bounded
+  capture and emergency-override conditions.
+- The 43-second display aligns a reconstructed drowned coastline with present Vellum. It
+  reveals household names, old foundations, and a deliberately cut southern channel.
+  The reconstruction is internally stable but not yet established as historical truth.
+- A distant maintenance-coated figure uses Mara's three-short/two-long/three-short handoff
+  cadence. The display ends with “RETAIN THE FINDING. RELEASE THE LIFE.” and “EVERY
+  WITNESS, INCLUDING YOU.”
+- After display, the recovery controller destroys its decryption material; seven civic
+  capture stations and many private witnesses/copies remain. Seven temporarily seals the
+  civic captures, excludes search/training, freezes deletion, and starts a six-hour clock.
+- Seven declines to publish capture checksums because they could authenticate and amplify
+  private copies. Instead, three external timestamp witnesses attest to a sealed package
+  of hashes, station identities, and the temporary order without receiving recordings.
+- Seven declines automatic ingestion of public copies and gives local-preservation
+  instructions. Search traffic for exposed household names immediately exceeds the prior
+  year's total despite civic quieting filters.
 
 ## Objects introduced
 
@@ -82,14 +105,18 @@ creates or resolves a fact that later chapters depend on.
 - Volatile isolated copy of the petition plus a non-reconstructive incident-ledger hash.
 - Mara's sealed engineering archive.
 - The orphaned `GLASS-WITNESS-7` environmental reference and its forecast latch.
+- Seven sealed civic capture copies of the 43-second display.
 
 ## Unresolved questions the draft owes
 
 - Who or what produced the current authentication envelope?
 - Why does a petition with old semantic content align with tomorrow's forecast event?
-- What happened during the original forty-three seconds?
+- Is the reconstruction historically accurate, and what happened during the original
+  forty-three seconds?
 - Why does Mara's death certificate depend on a quieted interval?
 - What does placing the Archive “within scope” require in practice?
 - Why was the request delivered now?
 - What is stored in the sealed recovery channel, and what was the latch's already-true
   historical input?
+- Who authored the display's two final imperatives, and why did the controller destroy
+  only its decryption material after broadcast?
