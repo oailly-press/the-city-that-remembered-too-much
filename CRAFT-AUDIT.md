@@ -25,13 +25,14 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   oracle, destroys the continuing receipt resolver, and leaves the deeper generative
   system plus final evidence form for Part III
 
-## Part III checkpoint after Chapter 17
+## Complete-draft checkpoint
 
-- seventeen chapters drafted
-- 55,968 raw Markdown words
-- Chapters 13–17 average 3,948 words and convert the model from a late mystery into the
+- eighteen chapters drafted
+- 60,312 raw Markdown words
+- Chapters 13–18 average 4,014 words and convert the model from a late mystery into the
   institutional mechanism connecting the land claim, display, Committee, and receipt leak
-- one chapter remains and must contribute at least 4,032 words to clear the floor
+- the raw Markdown draft clears the provisional 60,000-word floor by 312 words; the actual
+  FICTION counter still needs calibration, so publication readiness is not yet established
 - Chapter 14 refuses the easy compromise of encrypted preservation: every retained
   capability is tested against both denial by future officials and reuse by a future
   abuser, while the actual production model remains uninvoked
@@ -47,10 +48,11 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   due-process, future-denial, safety, and inventory challenges. It establishes the southern
   channel only through nonidentifying physical evidence and leaves a damaged uncertain
   unit named outside the bounded destruction claim.
-- Chapter 18 must earn its multi-year distance through changed institutions and ordinary
-  lives, resolve the damaged unit without convenient certainty, show the Third Promise's
-  democratic fate, and end with Seven keeping a legible gap rather than explaining the
-  novel's thesis one final time.
+- Chapter 18 earns its multi-year distance through reopened Archive petitions, imperfect
+  land repair, append-only corrections, individual accountability, a contested
+  constitutional vote, and two nonidentical amendment cases. It destroys the damaged unit
+  without learning its contents and ends with Seven's integrity sweep continuing past a
+  public, unopenable gap.
 
 ## Craft axes
 

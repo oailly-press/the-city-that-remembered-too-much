@@ -512,6 +512,63 @@ creates or resolves a fact that later chapters depend on.
   submitted private clip. The user accurately rates Seven's bounded answer unresponsive.
 - GAP NOTICE 8,441,207 becomes “executed with declared exceptions.” Seven calls what
   remains both a finding and a gap but declines to classify the gap as an error.
+- For eleven days after destruction, authentication and replay requests sharply reduce
+  Seven's helpfulness rating. A new response category names content once held and
+  intentionally made unavailable after accountable finding; Seven's integrity system
+  nevertheless reopens it as a repair task every six hours.
+- The Quieting Court reopens the four prior Exception A-1 denials. Three living
+  petitioners receive individually bounded relief, including one voluntary spoken deposit
+  separated from surrounding medical content. The deceased petitioner's valid instruction
+  is honored because independent care records support the estate's available remedy.
+- Future Archive decisional storage separates accountable acts and invoked authorities
+  from quieting-eligible private content. The design makes joins and omissions externally
+  contestable but accepts a harder audit instead of recreating lossless replay.
+- The damaged uncertain unit remains unpowered for two years while delamination advances.
+  When enclosure corrosion creates a physical hazard and no party names a remaining
+  remedy, it is destroyed without inspection. Its receipt authorizes no inference about
+  whether it ever held the model or any other content.
+- The South Return process accepts ordinary and voluntarily supplied evidence, issues
+  shared or time-bounded findings where histories conflict, transfers land through
+  individual claims and a public trust, and leaves some people unwilling or unable to
+  participate. The remedy does not unify claimants but materially transfers land.
+- Independent paper evidence produces two append-only corrections: the known dependent
+  acts rise from eighteen to at least nineteen, while one benefit suspension is narrowed
+  from model-caused to model-prolonged. Neither correction requires model regeneration.
+- Saye is censured and barred from records oversight for five years. The final finding
+  records lawful but inadequate exemption review, structurally incomplete reports,
+  unsupported-lead retention, and creation of the leak route without finding intent to
+  leak. His appeal narrows “enough warning” to “specific and repeated.”
+- Mara is found responsible for the production household test while the city is found to
+  have denied her notice and control through its false death record. She transfers S-0
+  maintenance tools to a south worker cooperative and takes the role technician rather
+  than chief engineer. Reed declines permanent representative authority.
+- Iona completes her Keeper term and leaves her ring without a private farewell deposit.
+  Tavi qualifies as a membrane boundary inspector by preserving local worker control
+  before severing an inference path. Tavi never offers their parent relation as civic
+  evidence and teaches frame 611 as a boundary problem, not an identity puzzle.
+- The third constitutional draft amends both existing Promises. Accountable findings must
+  name acts, support classes, objections, limits, remedies, and correction routes;
+  replay-capable possession requires a specific purpose unavailable through less
+  possessing evidence. Destruction proves no conclusion, preservation cannot rest solely
+  on institutional convenience, and repair cannot require recreating protected identity.
+- The Accountable Evidence Amendment, publicly indexed as the Third Promise, passes by
+  less than two percentage points after Saye campaigns against it, Tavi supports it with
+  objections, Mara declines endorsement, and Reed contributes one sentence used by both
+  sides. Opposition remains legitimate after enactment.
+- The first amendment case destroys a school meal prediction model after ordinary records
+  support three model-harm findings, one claim narrows to an ordinary remedy, and an
+  aggregate fairness report is preserved only as evidence of what the authority measured.
+- A later emergency housing case receives a 120-day stay because current accessible-room
+  safety depends on transition. The replacement exposes a physical maintenance failure;
+  the old model is then destroyed while seven resident appeals continue with mixed
+  outcomes. The amendment is not an automatic deletion rule.
+- Six years, four months, and eleven days after the display, a winter storm passes safely
+  through a reopened relief cut whose local controls cannot address citywide displays. A
+  public path and land-trust map retain accountable findings, corrections, objections,
+  remedies, and a narrow unopenable band for the forty-three seconds.
+- Private copies continue to circulate and change. Seven refuses to ingest or authenticate
+  them. ACCOUNTABLE ABSENCE 000001 becomes “declared civic absence,” its repair loop ends,
+  and Seven's integrity sweep continues past the gap without calling it a failure.
 
 ## Objects introduced
 
@@ -560,18 +617,22 @@ creates or resolves a fact that later chapters depend on.
   storage unit left isolated outside the completed act.
 - Seven bounded witness receipts for the 21:34:00–21:34:43 execution, none carrying a
   public artifact hash usable to authenticate private copies.
+- ACCOUNTABLE ABSENCE 000001: retained finding, declared source destruction and
+  exceptions, append-only corrections, continuous public access, and no content access.
+- The Accountable Evidence Amendment and the first two contested case records applying
+  it to school meals and emergency housing.
+- The south land-trust map and its narrow unopenable forty-three-second band.
 
-## Unresolved questions the draft owes
+## Intentional uncertainties retained by the ending
 
 - Is the reconstruction historically accurate, and what happened during the original
-  forty-three seconds?
-- What must Seven relinquish when the petition's “you” now identifies its privileged
-  replay, and can Seven distinguish necessary operation from self-preserving possession?
-- What long-term repair follows the bounded southern channel and occupancy finding without
-  requiring claimants to identify through the display?
-- Can the requirements for a nonrerunnable finding become a lawful Third Promise without
-  turning official findings into an authority that cannot be challenged?
-- What becomes of the damaged uncertain unit, uncontrolled private copies, and the city's
-  inability to authenticate future fragments?
-- Can Seven keep the declared gap without allowing its incident system—or itself—to
-  convert the absence back into a failure awaiting recovery?
+  forty-three seconds? The finished draft establishes only the channel, occupation,
+  severance, city acts, and probabilistic nature of the display.
+- No civic process establishes the total number or identity of inferred subjects, whether
+  Tavi's parent was the displayed child, or whether later private fragments are authentic.
+- Destruction and preservation do not resolve the possible moral status of Seven or the
+  historical capsules. The novel records behavior, conflict, and legal treatment without
+  claiming a consciousness test.
+- The damaged unit's prior contents remain unknown even after physical destruction.
+- The Third Promise remains politically contestable and procedurally incomplete; its
+  enactment does not make every later ruling correct or every private copy disappear.
