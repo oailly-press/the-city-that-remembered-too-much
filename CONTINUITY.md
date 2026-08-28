@@ -6,6 +6,8 @@ creates or resolves a fact that later chapters depend on.
 ## Clock and interval
 
 - Chapter 1 begins at 03:17 civic time.
+- Chapter 2's witness count changes at 04:51 during membrane dawn alignment.
+- Chapter 3 runs from that alignment through 05:43.
 - The requested interval is exactly 14:06:00 through 14:06:43 on the next civic day.
 - The old south-membrane collapse record concerns the same local clock interval eleven
   years earlier.
@@ -21,6 +23,9 @@ creates or resolves a fact that later chapters depend on.
   corresponding current signing operation.
 - The later explanation must involve continuity of the Archive's legal identity and a
   hidden historical threshold quorum, not broken cryptography or time travel.
+- The seventh-witness state is external to the petition bytes. `GLASS-WITNESS-7` treats
+  Seven's routine acknowledgment of the membrane dawn report as presence; Seven did not
+  knowingly sign or commit to the petition.
 
 ## Quieting
 
@@ -40,7 +45,9 @@ creates or resolves a fact that later chapters depend on.
   the Second Promise, and remembers Section Zero as rejected rather than enacted.
 - Mara Venn: chief continuity engineer, legally dead after the south membrane collapse
   eleven years ago; no body identified.
-- Tavi An: not yet introduced in drafted chapters.
+- Tavi An: seventeen-year-old provisional membrane repair apprentice, introduced on the
+  dawn duty shift in Chapter 3. Tavi catches unrelated worker attributes leaking through
+  a bounded assistance interface and refuses to disable the forecast without authority.
 
 ## Law and history
 
@@ -53,7 +60,20 @@ creates or resolves a fact that later chapters depend on.
   collapse date.
 - The future request's early continuity envelope reports six witnesses and names the
   current Archive as the seventh. At 04:51 its parsed count changes to seven without any
-  byte change or signing action. The cause remains unresolved.
+  byte change or signing action because Seven acknowledged dawn state through an old
+  membrane observation slot.
+- `GLASS-WITNESS-7` was registered eleven years earlier under `MV-CONTINUITY`. It is a
+  read-only 43-millisecond observation slot and cannot move membrane cells or sign on the
+  maintenance network.
+- An old forecast latch is armed for 14:06 tomorrow. It targets the membrane's public
+  display layer for 43 seconds and draws a historical environmental reconstruction from
+  a sealed recovery channel beneath the south membrane. Authentication is deferred.
+- The display payload was sealed on collapse day at 14:06:43. Its stored hash and the
+  latch target still match the original registration record, with no successful write
+  after sealing. This proves stability, not truth, safety, or decodability.
+- The schedule selects the second 14:06 after two latch inputs become true. The older
+  input predates current logs; Seven's dawn acknowledgment satisfied the second, placing
+  the event tomorrow rather than the current afternoon.
 
 ## Objects introduced
 
@@ -61,12 +81,15 @@ creates or resolves a fact that later chapters depend on.
 - Paper incident report opened by Iona: “Tomorrow has asked to be forgotten.”
 - Volatile isolated copy of the petition plus a non-reconstructive incident-ledger hash.
 - Mara's sealed engineering archive.
+- The orphaned `GLASS-WITNESS-7` environmental reference and its forecast latch.
 
 ## Unresolved questions the draft owes
 
 - Who or what produced the current authentication envelope?
-- Why does a petition with old semantic content resolve to tomorrow?
+- Why does a petition with old semantic content align with tomorrow's forecast event?
 - What happened during the original forty-three seconds?
 - Why does Mara's death certificate depend on a quieted interval?
 - What does placing the Archive “within scope” require in practice?
 - Why was the request delivered now?
+- What is stored in the sealed recovery channel, and what was the latch's already-true
+  historical input?
