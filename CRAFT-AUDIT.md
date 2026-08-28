@@ -25,20 +25,25 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   oracle, destroys the continuing receipt resolver, and leaves the deeper generative
   system plus final evidence form for Part III
 
-## Part III checkpoint after Chapter 14
+## Part III checkpoint after Chapter 15
 
-- fourteen chapters drafted
-- 44,056 raw Markdown words
-- Chapters 13–14 average 3,914 words and convert the model from a late mystery into the
+- fifteen chapters drafted
+- 47,993 raw Markdown words
+- Chapters 13–15 average 3,922 words and convert the model from a late mystery into the
   institutional mechanism connecting the land claim, display, Committee, and receipt leak
-- four chapters remain; at least 15,944 additional words are required for the 60,000-word
+- three chapters remain; at least 12,007 additional words are required for the 60,000-word
   floor, so the 3,900–4,300 working range remains sufficient but leaves little room for an
   under-length final chapter
 - Chapter 14 refuses the easy compromise of encrypted preservation: every retained
   capability is tested against both denial by future officials and reuse by a future
   abuser, while the actual production model remains uninvoked
-- Chapter 15 must turn the requirements for a nonrerunnable witness into authority,
-  consequence, and conflict. It cannot merely restate the evidence-form trials as policy.
+- Chapter 15 turns the requirements into five divided authorities, reversible civic
+  remedies, Saye's resignation, and a public finding that remains correctable. Its
+  withdrawn support manifest repeats the frame 611 problem at smaller scale, preventing
+  the “Third Promise” from becoming a frictionless policy victory.
+- Chapter 16 must explain the petition's newly resolved execution basis without time
+  travel and make Seven's privileged replay a concrete capability with a real operational
+  cost. The historical capsules may test current Seven, but they cannot know the present.
 
 ## Craft axes
 

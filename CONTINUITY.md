@@ -363,6 +363,54 @@ creates or resolves a fact that later chapters depend on.
   destruction proof, limits, a challenge period, adversarial examination, and a route to
   amendment or withdrawal. It must not preserve an open-ended capability to rerun the
   source. The consequences and legal authority for that form remain unresolved.
+- The three external examiners establish artifact/deployment commitments, the explanation
+  cache's ability to attach generated material to a preservation workspace, and the
+  inadequacy of three removal treatments. They refuse to attest that the seven findings
+  are true; they attest only to specified support, tests not run, considered alternatives,
+  and undisclosed contradictions within their assigned materials.
+- Tavi brings an unsigned Room Zero proposal: retain what a harmful system caused without
+  retaining the means to cause it again. Iona refuses to call an emergency order a new
+  constitutional promise. “Third Promise” enters the public index as a proposed argument,
+  while the legal instrument remains an interim joint order.
+- No single body has authority to enact the full evidence form. The Review Panel adopts
+  finite findings; the Quieting Court controls destruction; the Claims Office repairs
+  administrative acts; the Council suspends the model exemption and refers conduct; Seven
+  can execute technical acts only after those independent authorities act.
+- The finding is append-only as historical process but corrigible as a conclusion. Later
+  bodies may append a correction, narrow a claim, or withdraw reliance with a new basis;
+  they may not overwrite what the city originally found, disputed, and destroyed.
+- Remedies attach to ordinary documented civic acts rather than forcing people to prove
+  membership in the model's hidden subject lattice. Agencies must reopen or reverse their
+  own affected actions and use unlinkable authorities where direct notice would expose a
+  person. The plan admits possible over-repair, fraud, and incomplete reach.
+- Saye publicly reads the finding about his own acts and admits that the oversight reports
+  were true answers to questions designed not to trouble the Committee. The Council
+  suspends the grandfathering exemption eight to three, refers the conduct, and accepts
+  Saye's immediate resignation as Continuity chair without treating it as an adjudication.
+  The interim chair takes the Committee seal, freezes its inventory, and seeks external
+  verification of undeclared copies.
+- The Panel adopts six of seven disputed findings. It defers the claim that the model
+  reconstructed specific facts in the display and instead finds that the city presented a
+  probabilistic reconstruction as recovered history. The record neither establishes nor
+  denies that the pictured children were present.
+- A proposed anonymous support manifest combines dates, divisions, query classes, later
+  acts, and candidate counts in a way that narrows 28,000 people to three former benefit
+  applicants. It is withdrawn after ninety-one seconds; no authenticated civic download
+  occurs, but eleven private clients rendered it. The replacement public manifest names
+  official acts, not a subject graph, and admits that future subject-count or identity
+  claims require new independent evidence.
+- The Quieting Court sets a twenty-four-hour final challenge window. A stay must name a
+  specific finding, available remedy, and minimum artifact necessary; general preservation
+  demands and attempts to prove unvolunteered identities do not qualify. An undeclared-copy
+  search may inspect inventories, logs, power records, and physical storage but may not use
+  similarity search or ask the model to recognize itself.
+- The interim joint order binds Seven as executor and party. It preserves findings,
+  support classes, objections, corrections, custody, destruction receipts, and limits,
+  while forbidding Seven to treat the absence of challenge as proof of truth.
+- Fourteen seconds after “Third Promise” enters the public index, the unchanged future
+  petition resolves its execution basis to that phrase without any new signature or byte
+  change. Its scope clarifies that “you” means Seven's privileged replay, not merely its
+  legal identity or signing key.
 
 ## Objects introduced
 
@@ -391,12 +439,19 @@ creates or resolves a fact that later chapters depend on.
   fictional cases, aggregate score, scorer, and destruction receipt.
 - Three external examiners' fixed worksheets, equipment attestations, and bounded
   objections; no subject values, model prompts, or generated outputs enter the record.
+- Tavi's unsigned three-line proposal from Room Zero and the indexed “Third Promise,
+  proposed” entry.
+- The Interim Joint Order on Accountable Findings and Nonrerunnable Evidence, including
+  its five-authority execution map and append-only correction rule.
+- The withdrawn support manifest that briefly exposed re-identifying field combinations;
+  eleven private clients rendered it before withdrawal.
 
 ## Unresolved questions the draft owes
 
 - Is the reconstruction historically accurate, and what happened during the original
   forty-three seconds?
-- What does placing the Archive “within scope” require in practice?
+- What must Seven relinquish when the petition's “you” now identifies its privileged
+  replay, and can Seven distinguish necessary operation from self-preserving possession?
 - Who authored the display's two final imperatives, and why did the controller destroy
   only its decryption material after broadcast?
 - Can the investigation establish the southern channel and human presence without
@@ -407,3 +462,5 @@ creates or resolves a fact that later chapters depend on.
   challenge window ends: destruction, static findings, or continued bounded computation?
 - Can the requirements for a nonrerunnable finding become a lawful Third Promise without
   turning official findings into an authority that cannot be challenged?
+- How did the unchanged petition resolve an execution basis from a public index entry
+  that did not exist when the historical quorum deposited its claim?
