@@ -153,6 +153,21 @@ creates or resolves a fact that later chapters depend on.
 - The Review Panel pilots 512 unlinkable one-use authorities for display-related
   emergency relief. Their receipts prove an authorized act occurred without sharing an
   incident reference that would cluster the applicants.
+- Frame 611 contains a child's hand with an old flood brace. Tavi recognizes a gesture
+  associated with their parent but explicitly declines to offer that recognition as
+  evidence. The review retains the identity risk, not the kinship claim.
+- A geography-only examination dates frame 611 to a nine-day window thirty-four years
+  ago and independently supports the existence of the southern drainage channel. The
+  finding increases historical credibility but also lets public commentators narrow the
+  possible children, demonstrating that verification of background can reconstruct a
+  protected foreground.
+- After public feeds correlate Tavi's Hall visit with the frame, Seven shields all nine
+  members of Tavi's apprentice cohort using unlinkable authorities. Seven suspends
+  publication of further geographic increments but cannot retract the disclosed time
+  window or private copies.
+- A protected adult petitions to quiet frame 611 and authorizes one public sentence:
+  “Do not make my child prove I was that child.” This changes the case without
+  establishing the adult's identity or confirming Tavi's inference.
 
 ## Objects introduced
 
@@ -183,5 +198,7 @@ creates or resolves a fact that later chapters depend on.
   only its decryption material after broadcast?
 - What current event condition activated the old `receipt audit` process, and why does
   it hold authority equal to Seven?
+- Can the investigation establish the southern channel and human presence without
+  recreating the identities of the children who were there?
 - Which boundary leaked the official capture hash/copy?
 - What did Mara's presumed death allow the city to stop investigating?
