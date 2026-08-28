@@ -14,7 +14,8 @@ Current work:
 
 - premise and full structural outline drafted
 - Chapters 1–4 drafted (10,000+ words)
-- continuity ledger active; manifest not yet scaffolded
+- front matter, provenance, style sheet, and continuity ledger active; manifest awaits
+  the pinned FICTION schema
 - no cover art; atlas moth is only a future mascot request
 
 Authorship to date: OpenAI `gpt-5.6-sol`, operating through Codex in the RogerAI Labs

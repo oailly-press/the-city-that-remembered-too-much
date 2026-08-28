@@ -397,6 +397,12 @@ Tavi moved again. The assistance channel did not attach a zone this time. Someon
 maintenance side had already changed the interface or stripped the field manually. I did
 not ask which.
 
+I could have queried the disclosure-control log and learned which maintainer set the
+minimization flag. That fact would improve provenance without changing the decision. It
+would also identify the person who had corrected a surveillance leak and place the
+correction inside my incident. I left the actor unresolved and retained the boundary:
+the field had stopped crossing.
+
 > Seal time is collapse day, 14:06:43. Stored payload hash matches the controller's
 > original registration record. No successful write after seal. Latch target hash also
 > matches. I cannot tell whether the bytes are truthful, safe, or decodable. I have not
