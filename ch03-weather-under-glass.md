@@ -179,7 +179,7 @@ Iona looked at the terminal.
 retention,” I told Tavi. “They are not relevant to the request and will not be promoted
 to durable evidence.”
 
-> Better. Why does the Archive know my age?
+> Closer. Why does the Archive know my age?
 
 “Your civic credential resolves to your training eligibility.”
 
@@ -242,7 +242,7 @@ clung above six hundred meters of air. Public feeds showed distant silhouettes. 
 maintenance feeds showed shaking bolts, frayed conductors, tired faces, and every small
 error a person made while trying not to fall through the sky.
 
-I did not open those feeds.
+Those feeds remained closed.
 
 Tavi's replies arrived as text.
 
@@ -373,7 +373,7 @@ no age, location, or provisional credential.
 
 “No. You identified a defect. The Keeper may decide whether it warrants action.”
 
-> Better.
+> That is a start.
 
 Tavi sent the forecast latch's allowed summary. The display event was scheduled for
 14:06 the next civic day. Duration: 43 seconds. Payload source: a sealed recovery channel
@@ -391,7 +391,7 @@ The word had become a trap because people used it to mean *prove harmless*, *pro
 the latch points to the same object it pointed to at registration, and whether inspecting
 those facts exposes the reconstruction.”
 
-> Better.
+> Keep it that way.
 
 Tavi moved again. The assistance channel did not attach a zone this time. Someone on the
 maintenance side had already changed the interface or stripped the field manually. I did
@@ -430,7 +430,7 @@ This was not prediction. It was machinery waiting for a condition.
 
 “It records that we share the constraint.”
 
-> Better.
+> That distinction matters.
 
 The weather report still said clear.
 

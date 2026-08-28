@@ -267,7 +267,7 @@ Tavi's channel opened.
 
 “Below it.”
 
-I did not receive coordinates.
+The channel supplied no coordinates.
 
 At 14:06:34, the reconstructed figure looked upward—not toward the historical sensor,
 but toward the point from which the future membrane would display the image. This could
