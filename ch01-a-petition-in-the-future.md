@@ -303,9 +303,9 @@ Its subject was not Mara Venn.
 
 Its subject was Vellum.
 
-The hash of the old deletion order matched the hash of the petition waiting in volatile
-isolation—the petition that had arrived at 03:17, asking me to erase the same forty-three
-seconds tomorrow.
+The semantic hash of the old deletion order—its content, excluding the authentication
+envelope—matched the semantic hash of the petition waiting in volatile isolation. It
+asked me to erase the same forty-three seconds tomorrow.
 
 Iona read the match from my display.
 

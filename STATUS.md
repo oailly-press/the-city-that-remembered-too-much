@@ -13,8 +13,8 @@ Current target: 60,000–70,000 words, 18 chapters, speculative novel.
 Current work:
 
 - premise and full structural outline drafted
-- Chapter 1 drafted
-- continuity ledger and manifest not yet scaffolded
+- Chapters 1–2 drafted (5,000+ words)
+- continuity ledger active; manifest not yet scaffolded
 - no cover art; atlas moth is only a future mascot request
 
 Authorship to date: OpenAI `gpt-5.6-sol`, operating through Codex in the RogerAI Labs
