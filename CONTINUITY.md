@@ -328,6 +328,41 @@ creates or resolves a fact that later chapters depend on.
   invocation. Any further access requires a finite question tied to a named finding,
   plus identification of which acts can be proved without the model and what minimum
   capability a remaining challenge would require.
+- Six candidate evidence forms fail or prove only part of the necessary case: a model
+  hash, encrypted court custody, representative outputs, architecture without weights,
+  a fixed verifier, and a synthetic control. The synthetic control demonstrates the
+  reconstruction mechanism without proving the production model's particular behavior;
+  its weights and outputs are destroyed after the trial.
+- The Panel separates facts provable from ordinary records from claims that would require
+  another model run. The preserved records establish 312 invocations, eleven candidate-
+  producing queries, eighteen dependent acts, the Committee preview leak, and the buried
+  privacy dissent without regenerating a person.
+- Committee counsel establishes that the wrapper, not the model alone, converted latent
+  relations into named civic subjects. The finding therefore attributes the harm to the
+  model-and-wrapper system and narrows subject-level claims to five independently aligned
+  cases and one disproved identity relation.
+- Saye requests an accountable finding about his own acts. The accepted language keeps
+  both necessary conditions: Saye authorized retention and created the preservation route,
+  while the system attached the stream without his specific knowledge. Neither fact is
+  permitted to erase the other.
+- Notice follows current-record access where ordinary logs identify it. A general notice
+  covers people whom the model may have inferred but the city cannot identify without
+  rerunning the same harm; the notice admits that incompleteness rather than offering a
+  self-check that would become a new identity oracle.
+- Seven designs a one-run production test for Case 31 that would probably settle a
+  disputed behavior claim, then destroys the execution plan because no available remedy
+  depends on present reproducibility. The model remains frozen and is not invoked.
+- The Panel reduces twenty-six proposed findings to seven disputed findings. Nineteen are
+  supportable without generative evidence; four subject-correctness claims are narrowed or
+  removed; three artifact and code questions can be examined without a run.
+- Three external examiners enter physical isolation with fixed worksheets and bounded
+  objection rights. They receive no prompts, outputs, subject values, or generation
+  interface. Their audit is explicitly incomplete and will inform the final witness form,
+  not certify that the source has become harmless.
+- The emerging nonrerunnable form must preserve fixed findings, objections, custody and
+  destruction proof, limits, a challenge period, adversarial examination, and a route to
+  amendment or withdrawal. It must not preserve an open-ended capability to rerun the
+  source. The consequences and legal authority for that form remain unresolved.
 
 ## Objects introduced
 
@@ -352,6 +387,10 @@ creates or resolves a fact that later chapters depend on.
 - `CIVIC-CONSEQUENCE`: three base mirrors, six transition adapter shards, temporal index,
   geographic decoder, explanation cache, query logs, lead memos, and abandoned removal
   experiments under a forty-eight-hour physical hold.
+- Evidence Form Trials 1–6, including the destroyed synthetic control and its retained
+  fictional cases, aggregate score, scorer, and destruction receipt.
+- Three external examiners' fixed worksheets, equipment attestations, and bounded
+  objections; no subject values, model prompts, or generated outputs enter the record.
 
 ## Unresolved questions the draft owes
 
@@ -366,5 +405,5 @@ creates or resolves a fact that later chapters depend on.
   uncertainty attaches to executable remnants that cannot request preservation?
 - What should replace the executable handoff objections when their seventy-two-hour
   challenge window ends: destruction, static findings, or continued bounded computation?
-- What form can preserve proof of the Committee's model abuse without retaining an
-  open-ended capability to regenerate quieted people?
+- Can the requirements for a nonrerunnable finding become a lawful Third Promise without
+  turning official findings into an authority that cannot be challenged?

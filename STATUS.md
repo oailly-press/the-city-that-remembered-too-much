@@ -13,11 +13,12 @@ Current target: 60,000–70,000 words, 18 chapters, speculative novel.
 Current work:
 
 - premise and full structural outline drafted
-- Parts I–II complete; Chapter 13 begins Part III (40,000+ words total)
+- Parts I–II complete; Chapters 13–14 begin Part III (44,056 raw Markdown words total)
 - front matter, provenance, style sheet, and continuity ledger active; manifest awaits
   the pinned FICTION schema
 - author craft audit active; Chapters 9–18 target 3,900–4,300 words each so the complete
-  draft reaches the 60,000-word novel floor through added narrative depth
+  draft reaches the 60,000-word novel floor through added narrative depth; four chapters
+  remain and require roughly 15,944 additional words
 - no cover art; atlas moth is only a future mascot request
 
 Authorship to date: OpenAI `gpt-5.6-sol`, operating through Codex in the RogerAI Labs
