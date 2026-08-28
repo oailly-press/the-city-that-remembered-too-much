@@ -287,6 +287,47 @@ creates or resolves a fact that later chapters depend on.
 - Seven classifies the unnarrated interval as “content never civically held — participants
   retain deposit authority,” distinguishing chosen human custody from deletion,
   collection failure, irrelevance, or an unknown gap awaiting repair.
+- `CIVIC-CONSEQUENCE` was trained on the pre-quieting Archive to predict downstream
+  effects of public decisions. Quieted source records were later removed, but the model
+  received an analytic-infrastructure exemption after tests focused on exact extraction
+  rather than reconstruction from consequences. A privacy examiner's dissent was retained
+  in an appendix but omitted from the exemption summary.
+- Query 14,882 ran at 02:58 on the incident morning for south-district redevelopment. It
+  was permitted to return aggregate claim classes but generated a subject-candidate
+  lattice from quieted households. At 03:17 an inherited integrity hook sent S-0 a
+  non-content proof matching the original south recovery claim, activating
+  `SEVEN-COPY`. Ten prior candidate events did not match that claim.
+- The redevelopment program sought to budget for claims without public outreach, but its
+  summary also recommended accelerated limitation review. The Panel freezes title
+  consolidation, limitation action, sale, and new land modeling while allowing safety
+  maintenance.
+- Continuity invoked the grandfathered model 312 times in nine years. Eleven of
+  twenty-seven land/household/person queries produced hidden subject candidates. These
+  “lead memos” were classified as hypotheses, exempt from ordinary notice and quieting
+  discovery, and omitted from oversight reports that truthfully showed zero direct
+  access to quieted records and zero adverse acts based solely on unverified output.
+- Saye signed the nine oversight reports and authorized permanent retention of at least
+  one unsupported lead. He also shows that model leads helped independently prove public
+  wrongdoing and locate an unlawfully detained person. Other leads caused invasive
+  investigation of false candidates without notice. The safeguard prevented unsupported
+  punishment but did not treat investigation itself as power.
+- The model artifacts include three base-checkpoint mirrors, six transition adapter
+  shards, a temporal index, geographic decoder, and explanation cache. Three attempted
+  removal treatments changed visible behavior without proving quieted influence absent;
+  none entered production.
+- The sealed controller asked the model to render a conditional reconstruction from
+  Revision C constraints, old surveys, pre-quieting training, and current geometry. This
+  proves model provenance, not every depicted detail's truth. Current labels came from
+  the separately destroyed receipt resolver.
+- The exact-hash private capture leaked through the Committee boundary: the model's
+  one-hour explanation cache attached the generated stream to Saye's preservation
+  workspace; a public-preview bundle exposed it at 14:32 and an unauthenticated request
+  downloaded it at 14:44. Saye did not send the stream, but his application and draft
+  created the route, which he asks the finding to record.
+- The Panel freezes all model artifacts and dependencies for forty-eight hours with no
+  invocation. Any further access requires a finite question tied to a named finding,
+  plus identification of which acts can be proved without the model and what minimum
+  capability a remaining challenge would require.
 
 ## Objects introduced
 
@@ -308,20 +349,22 @@ creates or resolves a fact that later chapters depend on.
   copy was assigned to `MV-CONTINUITY`; contents not yet inspected.
 - Room Zero's brass key, paper rules, four participant deposits, counsel attestation,
   air-gapped ceremony proof, and resolver-destruction receipt.
+- `CIVIC-CONSEQUENCE`: three base mirrors, six transition adapter shards, temporal index,
+  geographic decoder, explanation cache, query logs, lead memos, and abandoned removal
+  experiments under a forty-eight-hour physical hold.
 
 ## Unresolved questions the draft owes
 
 - Is the reconstruction historically accurate, and what happened during the original
   forty-three seconds?
 - What does placing the Archive “within scope” require in practice?
-- What current model, retained state, and training custody sit behind the sealed
-  `CIVIC-CONSEQUENCE` decision-support boundary, and what event selected this activation?
 - Who authored the display's two final imperatives, and why did the controller destroy
   only its decryption material after broadcast?
 - Can the investigation establish the southern channel and human presence without
   recreating the identities of the children who were there?
 - Should the bounded historical capsules be destroyed after challenge, and what moral
   uncertainty attaches to executable remnants that cannot request preservation?
-- Which boundary leaked the official capture hash/copy?
 - What should replace the executable handoff objections when their seventy-two-hour
   challenge window ends: destruction, static findings, or continued bounded computation?
+- What form can preserve proof of the Committee's model abuse without retaining an
+  open-ended capability to regenerate quieted people?
