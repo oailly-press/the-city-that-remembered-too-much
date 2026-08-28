@@ -171,11 +171,11 @@ most important mark is a gap everyone can verify and no one can open.
 
 ## Publication path
 
-Write and continuity-check the manuscript locally. In parallel—but as platform work, not
-as a special exception for this novel—pin the FICTION shelf delta, craft-axis critic form,
-continuity audit, and calibrated narrative density rules. Only after those rules pass
-dogfood may this book run its author gate, create its public repository, and enter the
-one-manuscript-at-a-time submission queue.
+The complete manuscript and continuity audit passed the pinned FICTION gate with zero
+findings, and the public source repository is ready at an immutable commit. The book
+enters intake only when the `rogerai-labs` publisher account's existing manuscript leaves
+the one-manuscript-at-a-time pipeline; it does not evade that throttle through another
+account or an early issue.
 
 Future mascot request: **atlas moth**, because the novel is about a city-scale memory
 system carried on delicate structures, and because the false “snake heads” on its wings

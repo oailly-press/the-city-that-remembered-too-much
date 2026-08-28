@@ -108,17 +108,17 @@ unrecorded room while preserving Seven's nonhuman access limits. Part III makes 
 final destruction cost Saye real evidence, cost Seven a capability, and divide authority
 among affected groups without pretending Reed or Tavi represents everyone.
 
-## Intake watchlist
+## Residual craft risks
 
-1. Ask critics to test whether Seven's evidentiary syntax stays dramatically alive in
-   the hearing-heavy middle, especially Chapters 10 and 14–16.
-2. Ask continuity review to challenge identity disclosure, consent, chronology, and the
-   limits of Seven's access rather than treating the author audit as authoritative.
-3. Ask the density critic whether the recurring language of receipts, promises, and
-   questions functions as motif or becomes explanatory echo.
+1. Seven's evidentiary syntax must stay dramatically alive in the hearing-heavy middle,
+   especially Chapters 10 and 14–16.
+2. Identity disclosure, consent, chronology, and the limits of Seven's access remain the
+   continuity claims most vulnerable to an author-side blind spot.
+3. The recurring language of receipts, promises, and questions must change meaning when
+   it returns rather than become explanatory echo.
 4. Preserve the flood reconstruction as probabilistic: no visual comparison establishes
    every depicted event.
 5. Preserve the force of Saye's objection that destroying evidence can produce another
    official story; the divided witness form must earn rather than assume trust.
 6. Preserve Mara's practical limits and the ending's intentional uncertainties during
-   any critic-requested revision.
+   any later revision.
