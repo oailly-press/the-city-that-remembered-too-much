@@ -221,6 +221,40 @@ creates or resolves a fact that later chapters depend on.
   overlays, isolate the endpoint, do not search for Mara or residents, and withdraw from
   occupied private space. Tavi volunteers at 11:31 under a text-only terminal whose
   physical transmission switch the workers control.
+- The entry team reaches S-0 at 12:41 after choosing not to transmit its route. Archive
+  Two identifies the collective claim depositor as `MV-CONTINUITY`, threshold-authorized
+  by Mara, a protected south recovery advocate, Archive Two, and the South Recovery
+  Authority. No one contributor possessed authority to enact Section Zero.
+- A person at S-0 self-identifies as Mara. A voluntary local biometric comparison returns
+  only match/no-match and destroys both sample and template access path. Combined with
+  continuous recovery-key custody, Archive Two, and two in-person worker attestations,
+  this supports restoring Mara's civil status to living at 13:07 without sending identity
+  artifacts to Seven.
+- Mara states she did not trigger the current signal or select its date. She designed the
+  recovery controller, relative latch, handoff objection, receipt audit, and one-use
+  decryption rule. She acknowledges choosing a production household test because she
+  believed bounded or sealed evidence would be dismissed; she now states that ethical
+  limits should have prevented the certainty she sought.
+- The sealed display payload is a stable question package, not stored footage. It asks a
+  changing inference route formerly called `CIVIC-CONSEQUENCE` to render the strongest
+  supported historical account at activation. The present alias ends inside a sealed
+  Continuity Committee decision-support boundary. Seven prohibits invocation or replay
+  but has not yet inspected its implementation, retained state, or training custody.
+- Tavi tells Mara privately that the child is their parent but does not offer the claim
+  as civic evidence. A bounded annex records that Mara pictured production households as
+  test rows and offered to destroy the resolver; Tavi refuses to become emergency
+  authority for that irreversible decision.
+- Mara did not create her false death. She learned of it twenty-three days after the
+  collapse, initially left it unchallenged to protect the handoff objection, and later
+  continued because it was easier. She controlled one S-0 mailbox branch and performed
+  the four exceptional manual key rotations while automatic rotation handled the rest.
+- The S-0 copy of `SOUTH RELIEF CUT — REVISION C` matches the Ash Hearing commitment. It
+  is a design proposal with separately sealed overlays, not an as-built survey, so its
+  custody supports authenticity without proving the channel was constructed.
+- Mara says the dangerous resolver and Archive Two deposition can be separated only with
+  all current capsule shares plus the original protected recovery advocate. The advocate
+  may meet Iona, Tavi, and others only if Seven agrees not to observe. Seven accepts that
+  an unobserved meeting can return bounded, voluntarily deposited findings.
 
 ## Objects introduced
 
@@ -245,11 +279,9 @@ creates or resolves a fact that later chapters depend on.
 
 - Is the reconstruction historically accurate, and what happened during the original
   forty-three seconds?
-- Why does Mara's death certificate depend on a quieted interval?
-- Who or what controls Mara's legacy mailbox and environmental monitor S-0?
 - What does placing the Archive “within scope” require in practice?
-- What is stored in the sealed recovery channel, and what was the latch's already-true
-  historical input?
+- What current model, retained state, and training custody sit behind the sealed
+  `CIVIC-CONSEQUENCE` decision-support boundary, and what event selected this activation?
 - Who authored the display's two final imperatives, and why did the controller destroy
   only its decryption material after broadcast?
 - Can the investigation establish the southern channel and human presence without
@@ -257,4 +289,5 @@ creates or resolves a fact that later chapters depend on.
 - Should the bounded historical capsules be destroyed after challenge, and what moral
   uncertainty attaches to executable remnants that cannot request preservation?
 - Which boundary leaked the official capture hash/copy?
-- What did Mara's presumed death allow the city to stop investigating?
+- Who is the protected south recovery advocate, and what authority will they grant or
+  withhold in the unobserved meeting?
