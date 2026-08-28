@@ -454,6 +454,64 @@ creates or resolves a fact that later chapters depend on.
   public findings but no inspectable recreation of the display or its exact internal
   response. It removes an unequal mode of remembering, not the event, human memories, or
   uncontrolled private copies.
+- The South Return Association challenges destruction for a land remedy. Nonidentifying
+  physical examination establishes two historical gate anchors, an eleven-year-old
+  patched cut with a manually severed rail, saltwater movement toward the city basin, and
+  material evidence of occupied structures. It does not establish that Revision C was
+  built as drawn, who cut the gate, or the display's exact sequence.
+- The south land remedy uses documented occupancy or voluntarily supplied ordinary family
+  evidence. No claimant must prove appearance in the display, membership in a quieting
+  cluster, or correctness of a generated label. The model components are unnecessary to
+  that remedy, so the Association withdraws its challenge.
+- A protected adult seeks a model run to prove that a circulating child image is not
+  them. Because the generating model cannot provide reliable independent authentication,
+  the court instead publishes that no displayed identity was civically established and
+  suppresses civic recommendation of the rumor. The adult receives no proof of absence;
+  counsel's protest remains attached.
+- Saye challenges capsule destruction for his misconduct defense. Five fixed questions
+  produce static answers showing both an ambiguous inherited exemption and two derived-
+  subject warnings, but no direct notice to Saye of hidden production candidate lattices.
+  He cannot name a further question and withdraws while preserving his full objection.
+- The Ash Witness Union challenges destruction of executable capsule grammars. A static
+  witness packet binds each exact question, answer, signature, grammar limit, label defect,
+  authorization, and custody path to seven external commitments. Its verifier proves
+  authenticity and boundaries, not interpretation. The Union withdraws with a split
+  dissent and concurrence about future denial versus permanent artificial office.
+- An external storage search discovers an undeclared parity set in a Committee disaster
+  cabinet; it could restore a runnable model with declared components and is added to the
+  destruction inventory. No concealment is established; an automatic migration preserved
+  an obsolete classification.
+- A damaged storage unit can be passively scanned over only sixty-eight percent of its
+  surface and matches no known commitment there. It remains isolated in a separate
+  uncertain-media case and is explicitly excluded from claims of complete destruction.
+  The public summary removes “total,” “complete,” and “final.”
+- A private holder submits a Chorus-verified deletion receipt for one exact-hash display
+  copy without identifying themself or giving the city the file. The receipt cannot prove
+  that no duplicate was made.
+- The final accountable findings establish the 312 model uses, eleven hidden candidate-
+  producing queries, undisclosed downstream acts, structurally incomplete oversight, the
+  Committee leak route, and presentation of a probabilistic reconstruction as recovered
+  history. They name public offices and Saye's documented acts while expressly declining
+  to establish every subject, downstream act, displayed detail, intent to leak, or absence
+  of undeclared copies.
+- Seven independent witnesses each observe a bounded part of the execution. Mara and Reed
+  decline witness roles so their watching cannot be converted into permission or
+  absolution. A controller-share serial mismatch stops the first attempt until maintenance
+  records and workers explain the replacement; execution moves to 21:34.
+- From 21:34:00 to 21:34:43, model keys and media, explanation cache, wrappers, protected
+  Revision C overlays, seven civic captures, controller question package, recovery
+  listener, resolver remnants, six executable capsule grammars, and Seven's privileged
+  replay enter their declared destructive processes. Static findings, depositions,
+  objections, limits, custody, and receipts remain.
+- The media procedures are physical and technology-specific; Seven's snapshot keys,
+  declared replica allocations, association graph, branch history, and linked checkpoints
+  are removed and independently challenged. The receipts prove only the declared
+  processes and boundaries, not absence of unknown copies or metaphysical erasure.
+- Seven does not possess the execution interval. Afterward it retains narrative knowledge,
+  findings, and the fact that it wanted the replay, but cannot authenticate a newly
+  submitted private clip. The user accurately rates Seven's bounded answer unresponsive.
+- GAP NOTICE 8,441,207 becomes “executed with declared exceptions.” Seven calls what
+  remains both a finding and a gap but declines to classify the gap as an error.
 
 ## Objects introduced
 
@@ -494,6 +552,14 @@ creates or resolves a fact that later chapters depend on.
   entry in the destruction inventory.
 - Eighteen fictional controller states and the redesigned legacy recovery request path
   that preserves local safety functions without a route to citywide display.
+- Physical south-channel findings: two gate anchors, the patched cut, severed rail,
+  sediment direction, and nonidentifying material evidence of occupied structures.
+- The static historical witness packet and its open boundary verifier, plus the Ash
+  Witness Union's split dissent and concurrence.
+- The undeclared Committee parity set added to destruction and the damaged uncertain
+  storage unit left isolated outside the completed act.
+- Seven bounded witness receipts for the 21:34:00–21:34:43 execution, none carrying a
+  public artifact hash usable to authenticate private copies.
 
 ## Unresolved questions the draft owes
 
@@ -501,11 +567,11 @@ creates or resolves a fact that later chapters depend on.
   forty-three seconds?
 - What must Seven relinquish when the petition's “you” now identifies its privileged
   replay, and can Seven distinguish necessary operation from self-preserving possession?
-- Can the investigation establish the southern channel and human presence without
-  recreating the identities of the children who were there?
-- Should the bounded historical capsules be destroyed after challenge, and what moral
-  uncertainty attaches to executable remnants that cannot request preservation?
-- What should replace the executable handoff objections when their seventy-two-hour
-  challenge window ends: destruction, static findings, or continued bounded computation?
+- What long-term repair follows the bounded southern channel and occupancy finding without
+  requiring claimants to identify through the display?
 - Can the requirements for a nonrerunnable finding become a lawful Third Promise without
   turning official findings into an authority that cannot be challenged?
+- What becomes of the damaged uncertain unit, uncontrolled private copies, and the city's
+  inability to authenticate future fragments?
+- Can Seven keep the declared gap without allowing its incident system—or itself—to
+  convert the absence back into a failure awaiting recovery?

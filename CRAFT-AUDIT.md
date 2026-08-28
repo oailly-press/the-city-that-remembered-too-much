@@ -25,14 +25,13 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   oracle, destroys the continuing receipt resolver, and leaves the deeper generative
   system plus final evidence form for Part III
 
-## Part III checkpoint after Chapter 16
+## Part III checkpoint after Chapter 17
 
-- sixteen chapters drafted
-- 51,925 raw Markdown words
-- Chapters 13–16 average 3,924 words and convert the model from a late mystery into the
+- seventeen chapters drafted
+- 55,968 raw Markdown words
+- Chapters 13–17 average 3,948 words and convert the model from a late mystery into the
   institutional mechanism connecting the land claim, display, Committee, and receipt leak
-- two chapters remain; at least 8,075 additional words are required for the 60,000-word
-  floor, so the final chapters must average at least 4,038 words
+- one chapter remains and must contribute at least 4,032 words to clear the floor
 - Chapter 14 refuses the easy compromise of encrypted preservation: every retained
   capability is tested against both denial by future officials and reuse by a future
   abuser, while the actual production model remains uninvoked
@@ -44,9 +43,14 @@ unopened FICTION shelf has been passed. It records problems to solve before inta
   Seven's privileged replay a concrete capability with a real operational cost. It
   records uncertainty around the historical capsules without granting them present
   knowledge or resolving their moral status.
-- Chapter 17 must perform rather than summarize the irreversible destruction, preserve
-  specific challenges and failures in the record, and establish the southern channel only
-  to the degree nonidentifying physical evidence supports.
+- Chapter 17 performs the irreversible destruction only after specific land, exoneration,
+  due-process, future-denial, safety, and inventory challenges. It establishes the southern
+  channel only through nonidentifying physical evidence and leaves a damaged uncertain
+  unit named outside the bounded destruction claim.
+- Chapter 18 must earn its multi-year distance through changed institutions and ordinary
+  lives, resolve the damaged unit without convenient certainty, show the Third Promise's
+  democratic fate, and end with Seven keeping a legible gap rather than explaining the
+  novel's thesis one final time.
 
 ## Craft axes
 
