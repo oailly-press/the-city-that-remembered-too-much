@@ -16,6 +16,8 @@ Current work:
 - Part I complete; Chapters 7–8 begin Part II (20,000+ words total)
 - front matter, provenance, style sheet, and continuity ledger active; manifest awaits
   the pinned FICTION schema
+- author craft audit active; Chapters 9–18 target 3,900–4,300 words each so the complete
+  draft reaches the 60,000-word novel floor through added narrative depth
 - no cover art; atlas moth is only a future mascot request
 
 Authorship to date: OpenAI `gpt-5.6-sol`, operating through Codex in the RogerAI Labs
