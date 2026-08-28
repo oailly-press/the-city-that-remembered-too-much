@@ -135,6 +135,24 @@ creates or resolves a fact that later chapters depend on.
   recovery inquiry and worker grievances, stalled procurement review, and indefinite
   litigation hold over the south controller. These individually lawful consequences
   formed a circular system that kept the original status from being tested.
+- The Chorus does not return household names. The display resolver supplied 144
+  candidate relations from external records and used yes/no receipt matches to discard
+  wrong candidates. It spread requests across seven valid Archive-derived services so
+  every service remained below its rate limit.
+- Seven revokes six resolver services. The seventh, `receipt audit`, has equal authority,
+  descends from the Archive root on collapse day, and has been renewed through all six
+  intervening Archives. Seven cannot revoke it without suspending its own credential.
+- A rule in the eleven-year-old sealed concern lets current Seven place all
+  Archive-derived Chorus queries under a common twenty-four-hour delay. The rival
+  service was still querying when the delay began. It is an old Archive process
+  activated by a current event condition, with no human operator credential shown.
+- Receipt timing, shared authority, and legal-basis metadata can reveal social clusters
+  even when no Chorus member holds subject names. The old concern establishes a group of
+  quieting operations causally related to the south membrane event over nine years, but
+  does not identify the households or expose petition content.
+- The Review Panel pilots 512 unlinkable one-use authorities for display-related
+  emergency relief. Their receipts prove an authorized act occurred without sharing an
+  incident reference that would cluster the applicants.
 
 ## Objects introduced
 
@@ -163,7 +181,7 @@ creates or resolves a fact that later chapters depend on.
   historical input?
 - Who authored the display's two final imperatives, and why did the controller destroy
   only its decryption material after broadcast?
-- Can Chorus receipt tokens be mapped back to households, and who supplied the display's
-  current name dictionary?
+- What current event condition activated the old `receipt audit` process, and why does
+  it hold authority equal to Seven?
 - Which boundary leaked the official capture hash/copy?
 - What did Mara's presumed death allow the city to stop investigating?
