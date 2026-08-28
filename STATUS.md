@@ -13,7 +13,7 @@ Current target: 60,000–70,000 words, 18 chapters, speculative novel.
 Current work:
 
 - premise and full structural outline drafted
-- Part I complete; Chapters 7–9 continue Part II (24,000+ words total)
+- Part I complete; Chapters 7–10 continue Part II (28,000+ words total)
 - front matter, provenance, style sheet, and continuity ledger active; manifest awaits
   the pinned FICTION schema
 - author craft audit active; Chapters 9–18 target 3,900–4,300 words each so the complete

@@ -59,6 +59,10 @@ creates or resolves a fact that later chapters depend on.
 - Councilor Saye: Continuity Committee chair for nine years, former records advocate and
   Ash Hearings observer. He sincerely treats durable public memory as protection against
   coerced denial. His mother's mechanical watch runs eleven seconds slow.
+- Saye was twenty-one when he challenged the first Archive architect about future misuse
+  of retained sources. His mother was a transit dispatcher whose corrected notebook
+  helped establish an evacuation closure order. Her famous watch testimony was replayed
+  millions of times; a later qualification rejecting symbolic use traveled far less.
 
 ## Law and history
 
@@ -193,6 +197,30 @@ creates or resolves a fact that later chapters depend on.
 - The executable Archive Two capsule is physically remote at environmental monitor S-0.
   The Hall heard only a verified replay of its last static commitment. It cannot sign
   alone and can answer new questions only to an authorized bench present at its endpoint.
+- The Ash Hearings followed ordinary and deliberate losses of storm-evacuation orders.
+  Archive One's core controls each answer a witnessed failure: selective collection,
+  alteration, backdating, obsolete formats, silent correction, and sanitized succession.
+  Full replay was chosen because official findings could omit the detail later needed to
+  prove public wrongdoing.
+- The First Promise originally distinguished public acts from private lives, but service
+  systems attached applicants, children, passengers, and bystanders as context until
+  private facts became difficult to separate from public evidence.
+- Deposition 44 retained an operational finding while returning the witness's personal
+  account at their request. The First Promise committee treated the missing replayable
+  basis as a design failure; Iona treats the same choice as an uncompleted demand to stop
+  making the witness give the account.
+- The Review Panel extends sealed capture and local-capsule preservation by seventy-two
+  hours under bounded adversarial review. Identity comparison remains prohibited unless
+  a challenger establishes that less identifying evidence cannot answer the issue.
+- An Ash Hearing attachment index identifies `SOUTH RELIEF CUT — REVISION C`, rejected
+  at the time for uncertain revision custody and later retained as a technical copy by
+  `MV-CONTINUITY`. The title supports probable relevance, not the map's contents or the
+  reconstruction's truth.
+- At 11:26 the court authorizes bounded entry to S-0: verify Archive Two's capsule and
+  the deposited claim author, check for the relief-cut schematic without opening human
+  overlays, isolate the endpoint, do not search for Mara or residents, and withdraw from
+  occupied private space. Tavi volunteers at 11:31 under a text-only terminal whose
+  physical transmission switch the workers control.
 
 ## Objects introduced
 
@@ -208,6 +236,10 @@ creates or resolves a fact that later chapters depend on.
 - Legacy Mara mailbox mapped to environmental monitor S-0 in the south service district.
 - `SEVEN-COPY`: six historical contradiction capsules, current-incumbent adapter, and
   the delegated `receipt audit` service under one continuity handoff object.
+- Ash Hearing Deposition 44, including an operational finding retained without the
+  witness's returned personal account.
+- `SOUTH RELIEF CUT — REVISION C`, a disputed Ash Hearing attachment whose technical
+  copy was assigned to `MV-CONTINUITY`; contents not yet inspected.
 
 ## Unresolved questions the draft owes
 
