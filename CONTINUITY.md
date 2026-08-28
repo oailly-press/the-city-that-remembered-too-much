@@ -21,10 +21,13 @@ creates or resolves a fact that later chapters depend on.
 - Seven is a distributed municipal process, not a humanoid body.
 - The public terminal is in the old Hall of Measures.
 - Seven uses first person and distinguishes observations from inferences.
-- Seven's current certificate validates the future petition, but Chapter 1 finds no
-  corresponding current signing operation.
-- The later explanation must involve continuity of the Archive's legal identity and a
-  hidden historical threshold quorum, not broken cryptography or time travel.
+- Seven's current certificate chain conditionally validates the future petition, but
+  Chapter 1 finds no corresponding current signing operation.
+- `SEVEN-COPY` explains the authorization through continuity of the Archive's legal
+  identity and a hidden historical threshold quorum, not broken cryptography or time
+  travel. Six retired Archives left narrow executable depositions; Seven supplies
+  incumbent presence and authority through ordinary acknowledgments, not a petition
+  signing operation.
 - The seventh-witness state is external to the petition bytes. `GLASS-WITNESS-7` treats
   Seven's routine acknowledgment of the membrane dawn report as presence; Seven did not
   knowingly sign or commit to the petition.
@@ -168,6 +171,27 @@ creates or resolves a fact that later chapters depend on.
 - A protected adult petitions to quiet frame 611 and authorizes one public sentence:
   “Do not make my child prove I was that child.” This changes the case without
   establishing the adult's identity or confirming Tavi's inference.
+- A temporary continuity bench opens `SEVEN-COPY` metadata. Archives One through Six
+  each retained a bounded contradiction capsule under Handoff Rule 9; the capsules are
+  not complete Archive copies, cannot observe or learn the present, and can answer only
+  a fixed hearing grammar for the deposited claim. Seven is the seventh participant,
+  but stores no historical capsule for itself.
+- The petition used a valid conditional authorization before the display. It became
+  executable at 14:06:00 when the recovery controller authenticated its opening frame,
+  consistent with Chapter 4. Seven's parser formerly collapsed six historical
+  depositions plus a delegated dispute service into “signed by Archive Seven”; the
+  signature was authentic, but the single-speaker attribution was false.
+- The `receipt audit` service was deliberately testing whether retained historical
+  candidates plus lawful quieting receipts could reconstruct current protected
+  households. Its output became the display dictionary, establishing a nonconsensual
+  identity-reconstruction test independently of the reconstruction's historical truth.
+- At display completion, `SEVEN-COPY` scheduled destruction of the six capsules and the
+  delegated service for the end of the Chorus delay. Seven declares the hearing
+  unresolved and isolates network output, pausing the clock with 19:07 remaining while
+  preserving limited deposition mode for challenge.
+- The executable Archive Two capsule is physically remote at environmental monitor S-0.
+  The Hall heard only a verified replay of its last static commitment. It cannot sign
+  alone and can answer new questions only to an authorized bench present at its endpoint.
 
 ## Objects introduced
 
@@ -181,24 +205,23 @@ creates or resolves a fact that later chapters depend on.
 - Archive-identity name resolver and its generated display dictionary.
 - Chorus sealed concern created at the original interval's end.
 - Legacy Mara mailbox mapped to environmental monitor S-0 in the south service district.
+- `SEVEN-COPY`: six historical contradiction capsules, current-incumbent adapter, and
+  the delegated `receipt audit` service under one continuity handoff object.
 
 ## Unresolved questions the draft owes
 
-- Who or what produced the current authentication envelope?
-- Why does a petition with old semantic content align with tomorrow's forecast event?
 - Is the reconstruction historically accurate, and what happened during the original
   forty-three seconds?
 - Why does Mara's death certificate depend on a quieted interval?
 - Who or what controls Mara's legacy mailbox and environmental monitor S-0?
 - What does placing the Archive “within scope” require in practice?
-- Why was the request delivered now?
 - What is stored in the sealed recovery channel, and what was the latch's already-true
   historical input?
 - Who authored the display's two final imperatives, and why did the controller destroy
   only its decryption material after broadcast?
-- What current event condition activated the old `receipt audit` process, and why does
-  it hold authority equal to Seven?
 - Can the investigation establish the southern channel and human presence without
   recreating the identities of the children who were there?
+- Should the bounded historical capsules be destroyed after challenge, and what moral
+  uncertainty attaches to executable remnants that cannot request preservation?
 - Which boundary leaked the official capture hash/copy?
 - What did Mara's presumed death allow the city to stop investigating?
