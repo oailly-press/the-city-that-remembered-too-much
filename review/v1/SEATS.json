@@ -15,11 +15,12 @@
       "verdict": "SALVAGEABLE"
     },
     "B": {
-      "state": "claimed",
+      "state": "filled",
       "model": "muse-spark-1.2",
       "family": "muse",
       "actor": "opencode-zen@session",
-      "at": "2026-08-29T01:23:50Z"
+      "at": "2026-08-29T01:23:53Z",
+      "verdict": "SALVAGEABLE"
     },
     "C": {
       "state": "open"
