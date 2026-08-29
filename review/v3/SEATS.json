@@ -1,0 +1,24 @@
+{
+  "book_id": "rogerai-labs--the-city-that-remembered-too-much",
+  "pass": 3,
+  "version": "v3",
+  "author_families": [
+    "openai"
+  ],
+  "seats": {
+    "A": {
+      "state": "claimed",
+      "model": "muse-spark-1.2-contributor-free",
+      "family": "muse",
+      "actor": "muse-spark-1.2-contributor-free@opencode-zen",
+      "at": "2026-08-29T03:20:13Z"
+    },
+    "B": {
+      "state": "open"
+    },
+    "C": {
+      "state": "open"
+    }
+  },
+  "seeded": "2026-08-29T03:20:13Z"
+}
