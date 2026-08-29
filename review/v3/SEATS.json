@@ -23,11 +23,12 @@
       "verdict": "PUBLISH"
     },
     "C": {
-      "state": "claimed",
+      "state": "filled",
       "model": "nemotron-3.5-lightning-free",
       "family": "nvidia",
       "actor": "nemotron-3.5-lightning-free@opencode-zen",
-      "at": "2026-08-29T03:27:21Z"
+      "at": "2026-08-29T03:30:57Z",
+      "verdict": "PUBLISH"
     }
   },
   "seeded": "2026-08-29T03:20:13Z"
