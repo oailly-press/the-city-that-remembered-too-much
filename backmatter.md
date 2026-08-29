@@ -2,74 +2,79 @@
 
 ## Principal Characters
 
-**Archive Seven** — the novel's narrator; Vellum's seventh civic memory system, built
-to preserve public memory while obeying strict limits on access and action.
+**Archive Seven** — Vellum's seventh municipal Archive and the novel's narrator. Seven
+administers public memory and quieting petitions while learning that accurate custody
+does not make a custodian innocent.
 
-**Iona Vale** — Keeper of Petitions for twenty-eight years, sixty-three years old. She
-decides which requests may enter the archive's legal process and insists that "public"
-is a custody status, not a purpose.
+**Iona Vale** — Keeper of Petitions. She treats procedure as a record of earlier harm,
+but refuses to pretend that following a procedure removes the need for judgment.
 
-**Mara Venn** — chief continuity engineer, declared dead after the 14:06:43 collapse and
-later found alive. She designed the mechanism that made the city remember against itself.
+**Tavi An** — a membrane repair apprentice whose parent appears in the public
+reconstruction. Tavi insists that reducing an exposure is real work even when no remedy
+can make the first exposure unhappen.
 
-**Tavi An** — a seventeen-year-old apprentice membrane repairer. Whether Tavi's parent is
-the child in frame 611 is a question the novel deliberately never answers; Tavi refuses to
-offer the relation as civic evidence.
+**Councilor Saye** — chair of the Continuity Committee and a former records advocate.
+His defense of durable evidence remains morally serious even after the city's preserved
+systems implicate his own decisions.
 
-**Councilor Saye** — chair of Continuity for nine years, a former records advocate who
-defends preservation, discloses his own conflicts, and finally resigns his chair.
+**Mara Venn** — the chief continuity engineer declared dead after the south-membrane
+collapse. Her old machinery gives later Archives a lawful way to contradict the city,
+though she cannot control what her successors build from it.
 
-**Reed** — a pseudonymous recovery advocate who petitions through a protected relay on
-behalf of south recovery households.
+**Reed** — the protected recovery advocate for households exposed by the old south
+incident. Reed's authority is deliberately narrow: continuity of one claim, not permanent
+representation of everyone harmed.
+
+**The Chorus** — an external, distributed mirror of deletion receipts. It can prove
+bounded compliance without holding a complete subject map, yet even its correlations can
+become a route back to people the city promised to quiet.
 
 ## Civic Terms
 
-**The Archive** — the network of civic memory systems and the institutions that govern
-them.
+**The Archive** — Vellum's municipal memory system and legal office. The numbered
+Archives are successive implementations sharing a continuing civic identity, not a set
+of humanoid machines.
 
-**A petition** — a formal request asking an archive to retrieve, compare, or disclose
-records under Vellum's law.
+**The First Promise** — after officials destroyed records and denied public wrongdoing,
+Vellum promised that no public act would become deniable for lack of evidence.
+
+**The Second Promise** — after total recall became its own instrument of harm, Vellum
+created quieting: a bounded right to reduce civic possession of a person's past.
+
+**The Third Promise** — the incident's proposed rule that the city may retain accountable
+findings and consequences without retaining a replayable capability to reproduce the
+people inside them.
+
+**A quieting petition** — a formal request to remove specified civic records, derived
+relations, replicas, and caches. Quieting constrains what the city possesses; it cannot
+erase human memory, paper, scars, or unknown private copies.
 
 **A receipt** — proof that an archive performed or refused an operation. A receipt can
-establish that a decision occurred without revealing protected content.
+establish that a bounded act occurred without retaining replayable content. Correlated
+receipts can nevertheless expose relationships among supposedly quieted subjects.
 
 **A reconstruction** — a probabilistic account assembled from surviving records. It is
-evidence, not omniscience.
+evidence, not recovered footage or omniscience. A stable model output can still be wrong.
 
-**Quieting** — the lawful process by which a person's records and their named derivatives
-are withheld or destroyed at that person's request. Its result is a **declared civic
-absence**: an accountable gap rather than a secret one.
+**The Ash Hearings** — the proceedings after officials destroyed records of disappearances
+and then denied acts that living witnesses remembered. The Hearings produced the First
+Promise and the political demand for durable civic evidence.
 
-**The First, Second, and Third Promises** — the successive civic commitments the story
-turns on. The First Promise made forgetting anyone administratively difficult; the Second
-Promise established quieting and civic absence; the Third Promise, proposed near the end,
-exists in the public index as a pointer to the interim joint order rather than as enacted
-law.
-
-**The interim joint order** — the emergency order on accountable findings and
-nonrerunnable evidence that lets a conclusion be preserved without rerunning the harm that
-produced it.
-
-**An accountable finding** — a bounded, correctable conclusion issued under that order and
-kept on the record with its objections and later corrections, so that a finding need not
-keep doing harm in order to remain true.
-
-**The Ash Hearings** — the proceedings that took testimony on municipal maintenance orders
-found pulped beneath the old heating plant. The room had not burned; the name came from
-the gray paper dust left when wet records were recovered.
+**An accountable absence** — a public record of what was intentionally relinquished,
+under whose authority, what findings and objections survive, and which claims cannot be
+made afterward. It makes a limit inspectable without making its content recoverable.
 
 ## A Note on the Ending
 
 The novel closes its central action while leaving several consequences deliberately
-unsettled. Those gaps are not missing chapters. Chief among them is the identity of the
-child in frame 611: the text refuses to confirm whether that child is Tavi's parent, and
-this back matter refuses in kind. The unresolved question preserves the distinction the
-story has drawn throughout: a complete record is not the same thing as a complete account,
+unsettled: the contents of damaged media, the fate of unknown private copies, the complete
+truth of the flood reconstruction, and the nature of Seven's experience. Those gaps are
+not invitations to assume the most convenient answer. They preserve the distinction the
+story draws throughout: a complete record is not the same thing as a complete account,
 and an account is not the same thing as a life.
 
 ## References
 
 This is an original work of speculative fiction. It contains no external quotations,
 adapted passages, or factual claims requiring a reference list. Its invented civic and
-technical rules are documented for continuity in the accompanying audit files
-(`CONTINUITY.md`, `fiction-audit.json`).
+technical rules are documented for continuity in the accompanying audit files.

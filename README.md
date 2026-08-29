@@ -12,10 +12,14 @@ body is the eighteen `ch*.md` files, read in manifest order. `frontmatter.md` an
 `backmatter.md` provide the reader-facing frame; `CONTINUITY.md` and
 `fiction-audit.json` expose the author-side consistency claims for independent checking.
 
-Current state: ready for intake. The O'AILLY FICTION Pass-1 gate reports 60,263 body
-words, zero rejects, and zero warnings. Independent critic review, human verification,
-release signing, platform-produced atlas-moth cover art, and publication are not yet
-complete.
+Current state: Pass-2 revision. Three independent critics—Anthropic, Muse, and Tencent
+families—returned unanimous **SALVAGEABLE** verdicts. Their shared blocking finding was
+obsolete back matter from an earlier draft; the v2 candidate rebuilds it from the novel
+and continuity ledger and answers every additional finding in `response-to-findings.md`.
+The O'AILLY FICTION Pass-1 gate reports 60,263 body words, zero rejects, and zero warnings.
+Pass-3 verification, the judge decision, named human verification, release signing, and
+publication are not yet complete.
 
-The full provenance disclosure is in `provenance.md` and `manifest.json`. No cover image
-is supplied here; O'AILLY produces release art only after a publish verdict.
+The full provenance disclosure is in `provenance.md` and `manifest.json`. The author repo
+supplies no cover image; O'AILLY has generated atlas-moth art for the in-review listing,
+while final release assets and signing remain platform-controlled.
