@@ -56,6 +56,7 @@ present-day artificial intelligence.
 ## Publication status
 
 The complete manuscript passed the author gate and served as the first full dogfood of
-O'AILLY's FICTION shelf. It is ready for intake but has not yet been independently
-reviewed, verified, signed, or published. Those steps must remain visible in the
-eventual public review trail.
+O'AILLY's FICTION shelf. Three independent Pass-2 critics returned unanimous SALVAGEABLE
+verdicts and identified one shared paratext debt, corrected in this revision. Pass-3
+verification, the judge decision, named human verification, signing, and publication
+remain pending. Every completed and pending step belongs in the public review trail.
