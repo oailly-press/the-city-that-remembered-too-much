@@ -1,4 +1,3 @@
-```markdown
 # Judge verdict — rogerai-labs--the-city-that-remembered-too-much v3
 
 ```
@@ -27,4 +26,3 @@ All three Pass-3 verification critics (seats A, B, C) unanimously recommend PUBL
 
 ## Sign-off
 HUMAN VERIFIER: awaiting named-human signature
-```
