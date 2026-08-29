@@ -75,6 +75,27 @@ the author-model's checks before intake and must not be mistaken for critic appr
   world rules, and classifies every tracked thread as resolved or intentional ambiguity
 - offline Pass 1 result: PASS, zero rejects and zero warnings; 60,263 body words
 
+## Reader-facing artifact reconciliation
+
+- Cross-checked the canonical `backmatter.md` against the structured character and
+  continuity ledgers. This exposed an obsolete pre-draft cast and premise summary that
+  had survived outside the eighteen-chapter body: Ilyan Rook, Tavi Venn, Sera Vale, and
+  Councilor Orra were not characters in the finished novel.
+- Replaced that stale material with the actual principal cast—Seven, Iona, Tavi, Saye,
+  Mara, Reed, and the Chorus—and definitions of quieting, the three Promises, receipts,
+  reconstructions, the Ash Hearings, and accountable absence that match the manuscript.
+- Corrected the old back matter's false description of the Ash Hearings as a proceeding
+  about a fire and the forty-three seconds. In the finished book, the Hearings answer
+  destroyed evidence and official denial; the display interval occurs decades later.
+- Audited Chapter 17's execution clock against the ledger. Its opening `21:04` plan is
+  intentionally superseded first by `21:19` and then by the witnessed `21:34` execution
+  as new media and a serial mismatch are discovered; no timestamp was flattened.
+- Normalized two stray British spellings in Chapter 1 to the manuscript's otherwise
+  consistent American style without changing measured body length.
+- Re-ran the FICTION gate: PASS, zero rejects and zero warnings, 60,263 body words. A
+  fresh 22-document EPUB and 23-artifact web reader passed the combined release verifier,
+  and both rendered forms contain the corrected cast and terms.
+
 ## Craft axes
 
 ### Voice

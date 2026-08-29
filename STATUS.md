@@ -20,6 +20,9 @@ Current work:
 - offline Pass 1 author gate: PASS with zero rejects and zero warnings
 - manuscript-wide prose, chronology, narrator-access, refrain, and open-thread audits
   complete; intended uncertainties are named rather than accidentally unresolved
+- reader-facing back matter reconciled against the final character/continuity ledgers;
+  abandoned draft names and obsolete civic definitions removed, with fresh EPUB and web
+  release verification passing afterward
 - public repository created; intake issue intentionally deferred while another
   `rogerai-labs` manuscript occupies the one-book pipeline slot
 - no cover art; atlas moth is only a future mascot request

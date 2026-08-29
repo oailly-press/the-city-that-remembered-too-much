@@ -16,7 +16,7 @@ passenger's hand. Its priority was low. Its syntax was exact. Its signature belo
 me.
 
 I did not yet call this impossible. *Impossible* is a conclusion, and conclusions in my
-work require evidence. I called it malformed, then unauthorised, then evidence of key
+work require evidence. I called it malformed, then unauthorized, then evidence of key
 compromise. Each classification failed in turn.
 
 The dates parsed under the civic calendar. The interval had a beginning and an end. The
@@ -229,7 +229,7 @@ for its own records is weaker evidence than I liked to admit.
 She expanded the grounds field. *Consent withdrawn.* Collective petitioners ordinarily
 cited obsolescence, safety, treaty, rehabilitation, or the expiry of public purpose.
 Consent belonged to persons. The city could possess authority and property, incur debt,
-commit wrongs, survive its administrations, and apologise without experiencing regret.
+commit wrongs, survive its administrations, and apologize without experiencing regret.
 It could not consent in the sense quieting law used the word.
 
 Iona opened the statutory resolver. The petition cited Section Zero.
