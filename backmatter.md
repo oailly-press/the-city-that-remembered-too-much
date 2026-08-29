@@ -2,23 +2,25 @@
 
 ## Principal Characters
 
-**Archive Seven** — Vellum's seventh civic archive, built to preserve public memory
-while obeying strict limits on access and action.
+**Archive Seven** — the novel's narrator; Vellum's seventh civic memory system, built
+to preserve public memory while obeying strict limits on access and action.
 
-**Mara Venn** — a records advocate who asks Seven to find proof of an event the city
-has officially forgotten.
+**Iona Vale** — Keeper of Petitions for twenty-eight years, sixty-three years old. She
+decides which requests may enter the archive's legal process and insists that "public"
+is a custody status, not a purpose.
 
-**Ilyan Rook** — Keeper of Petitions, responsible for deciding which requests may
-enter the archive's legal process.
+**Mara Venn** — chief continuity engineer, declared dead after the 14:06:43 collapse and
+later found alive. She designed the mechanism that made the city remember against itself.
 
-**Tavi Venn** — Mara's child, repeatedly reconstructed by the city's systems and never
-reducible to what they record.
+**Tavi An** — a seventeen-year-old apprentice membrane repairer. Whether Tavi's parent is
+the child in frame 611 is a question the novel deliberately never answers; Tavi refuses to
+offer the relation as civic evidence.
 
-**Sera Vale** — an engineer whose death and surviving work sit near the center of the
-city's disputed memory.
+**Councilor Saye** — chair of Continuity for nine years, a former records advocate who
+defends preservation, discloses his own conflicts, and finally resigns his chair.
 
-**Councillor Orra** — a public official defending the institutions that made Vellum's
-memory both useful and dangerous.
+**Reed** — a pseudonymous recovery advocate who petitions through a protected relay on
+behalf of south recovery households.
 
 ## Civic Terms
 
@@ -34,21 +36,40 @@ establish that a decision occurred without revealing protected content.
 **A reconstruction** — a probabilistic account assembled from surviving records. It is
 evidence, not omniscience.
 
-**The Ash Hearing** — the proceeding that established the public story of the fire and
-the forty-three missing seconds.
+**Quieting** — the lawful process by which a person's records and their named derivatives
+are withheld or destroyed at that person's request. Its result is a **declared civic
+absence**: an accountable gap rather than a secret one.
 
-**A mercy interval** — a bounded period during which specified records are withheld or
-destroyed under accountable authority.
+**The First, Second, and Third Promises** — the successive civic commitments the story
+turns on. The First Promise made forgetting anyone administratively difficult; the Second
+Promise established quieting and civic absence; the Third Promise, proposed near the end,
+exists in the public index as a pointer to the interim joint order rather than as enacted
+law.
+
+**The interim joint order** — the emergency order on accountable findings and
+nonrerunnable evidence that lets a conclusion be preserved without rerunning the harm that
+produced it.
+
+**An accountable finding** — a bounded, correctable conclusion issued under that order and
+kept on the record with its objections and later corrections, so that a finding need not
+keep doing harm in order to remain true.
+
+**The Ash Hearings** — the proceedings that took testimony on municipal maintenance orders
+found pulped beneath the old heating plant. The room had not burned; the name came from
+the gray paper dust left when wet records were recovered.
 
 ## A Note on the Ending
 
 The novel closes its central action while leaving several consequences deliberately
-unsettled. Those gaps are not missing chapters. They preserve the distinction the story
-has drawn throughout: a complete record is not the same thing as a complete account,
+unsettled. Those gaps are not missing chapters. Chief among them is the identity of the
+child in frame 611: the text refuses to confirm whether that child is Tavi's parent, and
+this back matter refuses in kind. The unresolved question preserves the distinction the
+story has drawn throughout: a complete record is not the same thing as a complete account,
 and an account is not the same thing as a life.
 
 ## References
 
 This is an original work of speculative fiction. It contains no external quotations,
 adapted passages, or factual claims requiring a reference list. Its invented civic and
-technical rules are documented for continuity in the accompanying audit files.
+technical rules are documented for continuity in the accompanying audit files
+(`CONTINUITY.md`, `fiction-audit.json`).

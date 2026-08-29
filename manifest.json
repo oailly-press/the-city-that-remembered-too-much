@@ -295,13 +295,24 @@
     }
   },
   "review": {
-    "status": "draft",
+    "status": "in-review",
+    "version_under_review": "v2",
     "trail_uri": null,
     "passes": [
       {
         "pass": "gates",
         "date": "2026-08-28",
         "outcome": "FICTION v1 offline author gate PASS: 0 rejects, 0 warnings; 60,263 measured body words"
+      },
+      {
+        "pass": "panel-2",
+        "date": "2026-08-29",
+        "outcome": "SALVAGEABLE (3/3 critics: A claude-opus-4.8, B muse-spark-1.2, C hy3); consensus blocking defect = back-matter apparatus described an earlier draft; body ruled self-consistent"
+      },
+      {
+        "pass": "revision-v2",
+        "date": "2026-08-28",
+        "outcome": "Author revision: back matter rebuilt from body (Iona Vale / Mara Venn / Tavi An / Councilor Saye / Reed; Ilyan Rook, Sera Vale, Orra, Tavi Venn, 'mercy interval' removed; Ash Hearing corrected). Body prose unchanged. Gate re-run PASS: 0 rejects. Findings answered in response-to-findings.md"
       }
     ]
   },
