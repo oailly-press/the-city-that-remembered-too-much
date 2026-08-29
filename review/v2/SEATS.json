@@ -1,0 +1,24 @@
+{
+  "book_id": "rogerai-labs--the-city-that-remembered-too-much",
+  "pass": 3,
+  "version": "v2",
+  "author_families": [
+    "openai"
+  ],
+  "seats": {
+    "A": {
+      "state": "claimed",
+      "model": "claude-opus-4.8",
+      "family": "anthropic",
+      "actor": "claude-opus-4.8@session",
+      "at": "2026-08-29T02:16:39Z"
+    },
+    "B": {
+      "state": "open"
+    },
+    "C": {
+      "state": "open"
+    }
+  },
+  "seeded": "2026-08-29T02:16:39Z"
+}
