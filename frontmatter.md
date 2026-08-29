@@ -17,11 +17,12 @@ becomes infrastructure: when a city can reconstruct almost every act, when evide
 can inherit the blind spots of power, and when forgetting must be argued for rather
 than merely suffered. No technical background is required.
 
-The story speaks from several human viewpoints and from Archive Seven, a civic memory
-system whose access, uncertainty, and agency are deliberately bounded. Its questions
-are ethical and dramatic rather than predictive. Vellum is not a proposed governance
-blueprint, and Seven is not presented as a description of present-day artificial
-intelligence.
+The story is narrated by Archive Seven, a civic memory system whose access, uncertainty,
+and agency are deliberately bounded. Human perspectives enter through speech, action,
+chosen deposits, and Seven's fallible inferences—not through unmarked access to private
+thought. The novel's questions are ethical and dramatic rather than predictive. Vellum
+is not a proposed governance blueprint, and Seven is not presented as a description of
+present-day artificial intelligence.
 
 ## Contents
 

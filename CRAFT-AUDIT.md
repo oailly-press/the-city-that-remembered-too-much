@@ -84,6 +84,9 @@ the author-model's checks before intake and must not be mistaken for critic appr
 - Replaced that stale material with the actual principal cast—Seven, Iona, Tavi, Saye,
   Mara, Reed, and the Chorus—and definitions of quieting, the three Promises, receipts,
   reconstructions, the Ash Hearings, and accountable absence that match the manuscript.
+- Corrected the introduction's obsolete implication of several human viewpoints. The
+  finished formal contract is a single first-person Archive narration; human perspectives
+  enter only through observable conduct, speech, chosen deposits, and fallible inference.
 - Corrected the old back matter's false description of the Ash Hearings as a proceeding
   about a fire and the forty-three seconds. In the finished book, the Hearings answer
   destroyed evidence and official denial; the display interval occurs decades later.
