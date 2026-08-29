@@ -87,6 +87,15 @@ the author-model's checks before intake and must not be mistaken for critic appr
 - Corrected the introduction's obsolete implication of several human viewpoints. The
   finished formal contract is a single first-person Archive narration; human perspectives
   enter only through observable conduct, speech, chosen deposits, and fallible inference.
+- Reconciled the structural outline's early “quorum signed with Seven's key” shorthand
+  with the finished authorization mechanism. The synopsis now distinguishes historical
+  claim commitments and executable depositions from a current signing act, and credits
+  Reed's assembly, Mara, Archive Two, successor assent, and Seven's incumbent role without
+  turning any one participant into the petition's omniscient author.
+- Refreshed the shipped `pass1-report.json`, which still reflected the pre-FICTION generic
+  gate and carried an irrelevant `INDEX_THIN` warning despite the later zero-warning gate
+  result. The canonical report now records the `fiction-v1` density profile, structured
+  continuity metrics, and zero rejects and warnings.
 - Corrected the old back matter's false description of the Ash Hearings as a proceeding
   about a fire and the forty-three seconds. In the finished book, the Hearings answer
   destroyed evidence and official denial; the display interval occurs decades later.
