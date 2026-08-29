@@ -5,8 +5,16 @@
   "book_dir": ".",
   "verdict": "PASS",
   "reject_count": 0,
-  "warn_count": 0,
-  "findings": [],
+  "warn_count": 1,
+  "findings": [
+    {
+      "gate": "structure",
+      "severity": "warn",
+      "code": "INDEX_THIN",
+      "message": "tier 'standard' reads best with a glossary/index; found only 0 list entries in backmatter.md. A reference book wants ~20+; a narrative one can skip it \u2014 this is a suggestion, not a gate.",
+      "location": "backmatter.md"
+    }
+  ],
   "measured": {
     "body_words_measured": 60263,
     "print_equivalent_pages": 201,
@@ -31,61 +39,77 @@
       "ch18-what-remains-legible.md": 4330
     },
     "padding_metrics": {
-      "profile": "fiction-v1",
-      "declared_refrains": 5,
       "chapters": {
         "ch01-a-petition-in-the-future.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch02-the-keeper-of-petitions.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch03-weather-under-glass.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch04-forty-three-seconds.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch05-what-the-city-saw.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.011
         },
         "ch06-the-dead-engineer.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.01
         },
         "ch07-a-receipt-is-not-an-absence.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch08-the-child-in-every-reconstruction.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch09-seven-copies-of-one-key.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch10-the-ash-hearing.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.014
         },
         "ch11-mara-venn-present-tense.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch12-the-search-for-an-unrecorded-room.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.031
         },
         "ch13-the-model-beneath-the-records.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.008
         },
         "ch14-evidence-of-the-evidence.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.01
         },
         "ch15-the-third-promise.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch16-every-witness-including-you.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch17-forty-three-seconds-again.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.0
         },
         "ch18-what-remains-legible.md": {
+          "scaffold_share": 0.0,
           "bullet_share": 0.002
         }
       },
@@ -95,19 +119,6 @@
         "ngram": "the three base mirrors and six",
         "share": 5e-05
       }
-    },
-    "shelf_metrics": {
-      "shelf": "fiction",
-      "form": "novel",
-      "measured_words": 60263,
-      "continuity_audit": "PASS",
-      "character_count": 6,
-      "timeline_events": 18,
-      "chapters_covered": 18,
-      "world_rule_count": 10,
-      "thread_count": 12,
-      "intentional_ambiguities": 6,
-      "declared_refrains": 5
     }
   }
 }
